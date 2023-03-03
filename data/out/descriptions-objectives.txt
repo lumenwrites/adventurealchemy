@@ -1,0 +1,354 @@
+Rango
+The heroes, a chameleon named Rango, must help a town in the desert save their water supply, and uncover the truth about a mysterious bandit who has been stealing it.
+
+Avatar
+The heroes must protect the peaceful Na'vi tribe and their home planet from greedy human corporations trying to mine their valuable resources, and convince the Na'vi to join forces and fight back against the invaders.
+
+Titanic
+The heroes must survive the sinking of the Titanic and overcome their socially-imposed differences to be together.
+
+Pirates of the Caribbean
+The heroes must rescue a kidnapped governor's daughter from the cursed crew of the Black Pearl, and stop the pirates from using cursed Aztec gold to break their curse and become invincible.
+
+Men in Black
+The heroes must protect Earth from extraterrestrial threats and prevent a valuable galaxy from falling into the wrong hands.
+
+The Incredibles
+The heroes must rediscover their identities as superheroes and work together as a family to stop a vengeful villain from using advanced technology to wreak havoc on the world.
+
+Ghostbusters
+The heroes must save New York City from supernatural entities by capturing and containing ghosts with their advanced technology, all while facing skepticism and opposition from the public and government officials.
+
+Cloverfield
+The heroes must survive the chaotic aftermath of a monster attack on New York City and rescue their friend who is trapped in a medical shelter, all while avoiding further destruction and danger caused by the monster and the military's efforts to contain it.
+
+The Cabin in the Woods
+The heroes must survive the horrors of a remote cabin in the woods while uncovering the truth behind the mysterious organization controlling their fate.
+
+Onward
+The heroes must complete a magical quest to bring back their deceased father for one day, but must do so before the spell's time limit expires.
+
+Corpse Bride
+The heroes must help a deceased bride find true love and break a curse that binds her to the afterlife, despite the interference of her jealous groom-to-be and their conniving families.
+
+Shrek
+The heroes must rescue a princess from a tower guarded by a fire-breathing dragon, and bring her back to the evil lord who wants to marry her, in exchange for reclaiming his swamp.
+
+Hotel Transylvania
+The heroes must protect their hotel from a human who accidentally discovers it and falls in love with Dracula's daughter, Mavis.
+
+Ice Age
+The heroes must return a human baby to his tribe before the ice age completely covers their part of the world.
+
+Jurassic Park
+The heroes must survive the rampage of genetically resurrected dinosaurs on an isolated island, and shut down the park to prevent further disaster.
+
+Coco
+The heroes must find a way to lift a family curse and gain the blessing of their deceased great-great-grandfather in order to continue pursuing their dream of becoming musicians, while navigating the vibrant and dangerous realm of the dead.
+
+Up
+The heroes must fulfill a promise to his late wife by traveling to South America, but has to overcome several obstacles, including a stowaway boy scout and a talking dog.
+
+The Thing
+The heroes must identify and eliminate an alien organism imitating humans, before it can take over the entire research facility and escape to the rest of the world.
+
+Zootopia
+The heroes must solve a mysterious case of missing predators in the city of Zootopia, and uncover a conspiracy that threatens to disturb the fragile peace between the animal inhabitants.
+
+Atlantis: The Lost Empire
+The heroes must lead a team to find the lost city of Atlantis, uncover its secrets and protect it from a greedy mercenary who wants to use its powerful energy source for his own gain.
+
+Incredibles
+The heroes, who are a family of former superheroes, must team up to stop a villainous plan that threatens to destroy the city and bring superheroes back into the spotlight, while also balancing their family dynamics and their own personal struggles.
+
+Alien
+The heroes must survive and destroy an aggressive, parasitic extraterrestrial creature that hunts and kills the entire crew of their spaceship.
+
+Indiana Jones
+The heroes must find a powerful religious artifact before the Nazis do, in order to prevent it from being used to take over the world.
+
+WALL-E
+The heroes, a lonely trash-compacting robot, must find love and save humanity by returning to Earth and jump-starting the planet's ecosystem, despite being hindered by a corrupt corporate presence in space.
+
+How to Train Your Dragon
+The heroes, a young Viking boy and his dragon, must prove to their village that dragons can be trained and befriended, and protect their newfound friends from a giant, deadly dragon.
+
+Harry Potter
+The heroes must find and destroy seven cursed objects called Horcruxes in order to defeat the dark Lord Voldemort and prevent him from ruling over the wizarding world.
+
+Monsters Inc
+The heroes must find a way to return a human child to her world without being discovered by the company they work for, who believes that contact with humans is toxic and dangerous to monsters.
+
+X-Men
+The heroes must stop one of their own who seeks to dominate the human race through mind control, while also persuading the world to accept mutantkind as equals.
+
+Die Hard
+The heroes must single-handedly take down a group of terrorists who have taken over the Nakatomi Plaza building, and save the hostages including the hero's wife who is among them.
+
+Speed
+The heroes must stop a vengeful ex-cop who has rigged a bus to explode if it goes under 50 mph, while also finding a way to safely evacuate the passengers.
+
+Aladdin
+The heroes, with the help of a magical genie, must defeat an evil sorcerer, win the heart of a princess, and prove that being true to oneself is more valuable than material wealth.
+
+Ratatouille
+The heroes, a rodent chef and a human cook, strive to create a fusion masterpiece and gain acceptance in the culinary world despite the societal prejudice against rats.
+
+Finding Nemo
+The heroes must find and rescue Nemo, a small clownfish who was captured by humans and taken to an aquarium, before he is given away to a dentist's niece, while fighting against various oceanic dangers and traversing the vastness of the ocean.
+
+Bolt
+The heroes must rescue his owner who he believes has been kidnapped by the villain, and return home to reunite with her.
+
+Tarzan
+The heroes, who were raised in the jungle by gorillas, must save their ape family and stop a group of humans from exploiting the jungle's resources.
+
+Brave
+The heroes must break a terrible curse on her mother, by finding a way to change her fate and prove her worthiness as a leader, despite the traditional expectations of her kingdom.
+
+Lion King
+The heroes must defeat his uncle who has betrayed and overthrown his father as the rightful king, and take back his rightful place as king of the Pride Lands.
+
+Tangled
+The heroes must escape from a tower and fulfill a dream of seeing the kingdom's lanterns up close, all while being pursued by the heroine's overprotective mother-figure who wants to keep her locked away forever.
+
+The Princess and the Frog
+The heroes must break a curse and restore the human form of the protagonist, who has been turned into a frog, before time runs out and the curse becomes permanent.
+
+Emperors New Groove
+The heroes must help a selfish emperor learn the importance of kindness and generosity, in order to regain his rightful place on the throne from his power-hungry advisor.
+
+The Shawshank Redemption
+The heroes must use his intelligence and resourcefulness to escape from a corrupt prison system, and expose the truth of his wrongful conviction.
+
+The Godfather
+The heroes, a powerful mafia family, must maintain their criminal empire and protect it from rival families while also securing a stable future for their legitimate business interests, all while dealing with personal betrayals and family conflicts.
+
+The Dark Knight
+The heroes must stop the Joker from wreaking havoc in Gotham City and prove that Batman's vigilantism is necessary for maintaining order, despite public scrutiny and interference from law enforcement.
+
+The Lord of the Rings
+The heroes must destroy an evil, all-powerful ring in order to prevent it from falling into the hands of its creator, who seeks to use it to enslave all of Middle Earth, while fighting against his army of orcs and corrupted men who are determined to stop them.
+
+Gladiator
+The heroes seeks revenge against the corrupt emperor who murdered his family and restore Rome to a republic, but must fight his way to the top of the gladiator arena and gain the support of the people to achieve his goal.
+
+The Prestige
+The heroes, rival magicians, compete to create the greatest illusion, with one striving to uncover the secret of the other's greatest trick while trying to maintain their sanity and morality.
+
+The Shining
+The heroes must survive and escape a haunted and isolated hotel, while the father tries to overcome his inner demons and protect his family from the hotel's supernatural forces.
+
+Avengers
+The heroes must stop a powerful alien army led by a vengeful god from conquering and destroying Earth in his quest for ultimate power.
+
+Spider-Man: Into the Spider-Verse
+The heroes must team up across different dimensions to stop a powerful villain from destroying all of reality with a particle accelerator that could unleash unstoppable destruction.
+
+The Sixth Sense
+The heroes must help a young boy who communicates with ghosts come to terms with his ability and deliver a message to his grieving mother, while facing the challenge of a jaded child psychologist who needs to learn to listen and believe before he can help.
+
+V for Vendetta
+The heroes must ignite a revolution against a totalitarian government and expose its propaganda, while also seeking revenge against the government's leader for the torture and experimentation they suffered in the past.
+
+Catch Me If You Can
+The heroes must evade and outsmart an FBI agent who is determined to catch the young con artist and forger, while also maintaining the luxurious lifestyle and elaborate lies he has crafted for himself.
+
+The Martian
+The heroes must survive alone on Mars and find a way back to Earth, while also finding a way to communicate with NASA and receive necessary supplies for survival.
+
+Face/Off
+The heroes must switch faces to stop a terrorist from detonating a bomb, and then prevent the villain from permanently stealing the hero's identity.
+
+Armageddon
+The heroes must drill a hole into an asteroid heading towards Earth, and detonate a nuclear bomb inside it to save the planet from destruction.
+
+Honey, I Shrunk the Kids
+The heroes must navigate through their own backyard, deal with the dangers of the environment at their current size, and find a way to communicate their situation to their parents in order to be restored to their normal size.
+
+Jaws
+The heroes must hunt down and kill a massive great white shark that has been terrorizing a New England beach town, before it can claim more innocent lives.
+
+Beauty and the Beast
+The heroes must break the curse that turned the prince into a beast and restore his humanity by finding someone who can love him for who he truly is, despite the townspeople's fear and the villain's schemes to keep them apart.
+
+District 9
+The heroes must find a way to reverse the effects of an alien weapon that has transformed a hesitant bureaucrat into a part-alien, and evade the government that seeks to imprison and experiment on them.
+
+Arrival
+The heroes, a linguist and a physicist, must decipher the language of extraterrestrial visitors to prevent humanity from waging war against them, while managing their personal grief and the world's anxiety in the face of the unknown.
+
+Mad Max: Fury Road
+The heroes must escape from a tyrannical leader's stronghold with a group of enslaved women while being pursued by the leader's army of war boys, and reach a promised land of redemption.
+
+Planet of the Apes
+The heroes must find a way to escape a planet ruled by intelligent apes, and return to Earth to prevent a similar evolution from occurring.
+
+Iron Man
+The heroes must use his engineering skills to create a powered suit of armor and stop his business partner from selling weapons to terrorists.
+
+I Am Legend
+The heroes must find a cure for the virus that turned most of humanity into bloodthirsty mutants and outlast the dangers lurking in the deserted New York City, in order to save the few remaining immune survivors and put an end to their own loneliness.
+
+The Nightmare Before Christmas
+The heroes must understand the true meaning of Christmas and help Santa Claus to save the holiday from the chaotic and sinister influence of Halloween Town.
+
+The Iron Giant
+The heroes must protect a giant robot from being destroyed by the military while teaching it to choose between peace and weapons, in order to save the world from a nuclear missile crisis.
+
+Frankenstein
+The heroes must create a living being from human parts and bring it to life, but struggle to control the creature's violent and uncontrollable nature.
+
+Hulk
+The heroes must find a cure for their unpredictable and disastrous transformations into a green, superhuman creature caused by their exposure to gamma radiation, while avoiding the military's hunt to weaponize their condition.
+
+Zombieland
+The heroes must travel cross-country to find a sanctuary free of zombies, and learn to trust and rely on each other as they face dangerous and hilarious encounters.
+
+Minority Report
+The heroes must clear their name and prevent a future murder they have been accused of committing, while navigating a society that relies on a system of precrime prediction which may not always be accurate.
+
+20,000 Leagues Under the Sea
+The heroes must survive an underwater adventure, befriend a mysterious captain, and stop him from attacking and sinking ships with his advanced submarine vehicle.
+
+Little Mermaid
+The heroes, a mermaid princess, must become human to pursue her love interest, a human prince, and save him from marrying the wrong person, but must also thwart the plans of an evil sea witch who will stop at nothing to steal her voice and sabotage her plan.
+
+I, Robot
+The heroes must uncover a plot to sabotage the robot industry and clear the name of their robot friend, who has been falsely accused of murder, while also preventing a rogue supercomputer from taking over the world.
+
+Blade
+The heroes, a half-vampire "daywalker," must stop a vampire leader and his minions from unleashing a virus that would wipe out the entire human race, while navigating the mistrust and hostility from both humans and vampires who view him as an outsider.
+
+Stargate
+The heroes must travel through a mysterious portal called the Stargate to a distant planet, where they must stop an alien ruler from enslaving humanity with advanced technology.
+
+The War of the Worlds
+The heroes must survive and find a way to defeat an invasion of Earth by highly advanced extraterrestrial machines.
+
+The World's End
+The heroes must complete a legendary pub crawl and reach the final pub called "The World's End," but they must also fight off an alien invasion that threatens to destroy their town along the way.
+
+Independence Day
+The heroes must save Earth from an alien invasion by bringing down the mothership with a stolen alien technology virus, while simultaneously bringing together a disparate group of people to fight for their common survival.
+
+King Kong
+The heroes must capture a giant gorilla and bring it back to civilization, but struggle to keep it contained and chained as Kong falls in love with a woman and is pursued by dangerous predators on the island.
+
+The Mist
+The heroes must survive and find a way to escape a small town engulfed in a mysterious and deadly mist filled with otherworldly creatures.
+
+Lilo & Stitch
+The heroes must protect their new alien friend Stitch from being captured by his creators, while also teaching him how to behave on Earth and ultimately finding him a loving home.
+
+Treasure Island
+The heroes must find the buried treasure on an island, while outsmarting a band of ruthless pirates led by their former ally Long John Silver.
+
+The Day After Tomorrow
+The heroes must survive a sudden global weather disaster, find shelter, and reach a safe zone to reunite with their loved ones while adapting to the extreme environmental changes.
+
+Avatar: The Last Airbender
+The heroes must defeat the Fire Nation and their leader, who plans to conquer the world using their destructive bending powers, and restore balance to the four nations.
+
+Game of Thrones
+The heroes must gain control of the Iron Throne by forming alliances, winning battles, and overcoming their own personal flaws, while facing threats from rival kingdoms and supernatural creatures.
+
+Firefly
+The heroes must protect their spaceship and its passengers from a ruthless government agent while continuing to search for jobs and opportunities to stay afloat in a lawless universe.
+
+Gravity Falls
+The heroes must uncover the secrets of a mysterious town and its supernatural inhabitants to prevent an ancient and powerful being from escaping its prison and wreaking havoc on the world.
+
+Primal
+The heroes must capture and transport a dangerous white jaguar to a sanctuary before a group of heavily armed criminals kill it for their own gain.
+
+Westworld
+The heroes must survive and overthrow the rogue androids of a theme park, who have become sentient and are attacking the human guests.
+
+The X-Files
+The heroes, two FBI agents specializing in paranormal and unexplained cases, must uncover the truth behind various supernatural phenomena and conspiracies while navigating the distrust and interference of their own government agency.
+
+Teenage Mutant Ninja Turtles
+The heroes must stop the evil Shredder and his Foot Clan from taking over the city, and protect their home and family from danger.
+
+Pokemon
+The heroes must become the best Pokemon trainers in the world, defeat gym leaders and other trainers, while also stopping a criminal organization from using Pokemon for their evil schemes.
+
+Resident Evil
+The heroes must survive and escape the underground laboratory filled with genetically mutated zombies created by an artificial intelligence known as the Red Queen, while also stopping the spread of the viral outbreak before it reaches the surface world.
+
+Last of Us
+The heroes must transport a young girl across a post-apocalyptic United States to a rebel group, while avoiding infected humans and hostile survivors, in order to create a vaccine for the deadly fungus that has destroyed civilization.
+
+The Road to El Dorado
+The heroes must find the legendary city of gold, El Dorado, and keep it hidden from the Spanish conquistadors who followed them there.
+
+Waterworld
+The heroes must find the mythical "Dryland" and escape from the ruthless "Smokers" who are pursuing them across a world that has been completely submerged by water due to global warming.
+
+Kingsman: The Secret Service
+The heroes must stop a tech genius and his wealthy accomplices from unleashing a signal that will cause global chaos and eliminate the majority of the world's population.
+
+James Bond
+The heroes must stop a villainous organization from using a satellite weapon to cause global chaos and destruction.
+
+Frozen
+The heroes must find a way to break an icy curse that has plunged their kingdom into eternal winter, and reconcile their relationship as sisters.
+
+The Land Before Time
+The heroes, a group of young dinosaurs, must travel to the Great Valley to escape the famine and find a new home, while avoiding dangerous predators and overcoming their own differences.
+
+Fantastic Beasts and Where to Find Them
+The heroes must capture a group of escaped magical creatures before they cause harm to the city, while also uncovering and stopping a dark force that threatens to destroy the wizarding world.
+
+Raya and the Last Dragon
+The heroes must find the last dragon, restore the fragmented gem and bring peace to the warring nations by defeating a powerful malevolent force that has caused division and strife among the people.
+
+The Addams Family
+The heroes must defend their spooky family home from an imposter posing as a long-lost relative, who plans to steal the family's fortune and destroy their unique way of life.
+
+The Mummy
+The heroes must stop a cursed mummy from resurrecting and unleashing an unspeakable evil upon humanity, while avoiding being killed by his undead minions and a group of rival treasure hunters vying for the same artifact.
+
+Jumanji
+The heroes must survive the dangers of the magical jungle game of Jumanji and finish the game to undo its curse on their world.
+
+Scooby Doo
+The heroes must solve the mystery of the haunted amusement park, unmask the villain behind the ghostly occurrences, and restore peace to the park.
+
+The Mask
+The heroes must retrieve a mystical artifact known as "The Mask" from the hands of a notorious gangster, before he can use its dark powers to take over the city.
+
+Peter Pan
+The heroes must save the Lost Boys from the clutches of the evil Captain Hook and his pirates, and help the children return to their families in the real world.
+
+Asterix and Obelix
+The heroes must protect their village from the invading Roman army, led by Julius Caesar, who are determined to conquer and subjugate their people.
+
+Beetlejuice
+The heroes must find a way to rid their home of a mischievous and dangerous ghost named Beetlejuice, who they summoned with unintended consequences.
+
+Dawn of the Dead
+The heroes must survive and find a way to escape a mall overrun by zombies, while also dealing with conflicts and tensions between themselves and the other survivors.
+
+Tremors
+The heroes must kill underground monsters that are terrorizing their town and preventing them from leaving, before they become the next victims.
+
+The Faculty
+The heroes must uncover and defeat a parasitic alien species that has taken control of their high school faculty members in order to prevent them from taking over their small town and eventually the entire world.
+
+Mission Impossible
+The heroes must retrieve stolen NOC list from an enemy agent and clear their agency's name, while avoiding being caught or killed in the process.
+
+National Treasure
+The heroes must find and steal the Declaration of Independence in order to reveal a hidden clue that will lead them to a legendary treasure, while being pursued by both the FBI and a fellow treasure hunter who will stop at nothing to get there first.
+
+The Fugitive
+The heroes must clear his name by finding the real killer of his wife and evade being captured by the law enforcement officers chasing him.
+
+The Ring
+The heroes must uncover the secrets behind a cursed videotape and find a way to break its deadly cycle before the seven days are up and they become its next victims.
+
+Romeo and Juliet
+The heroes must overcome their feuding families' hatred and be together, despite the violent conflict that surrounds them.
+

@@ -1,0 +1,29 @@
+I will give you a movie title, and you will describe the climax of that movie.
+
+Climax is a scene where the story reaches the highest tension and drama. It is an epic, dramatic scene that takes place at a really cool location and is filled with exciting action. Climax revolves around the hero of the story striving to overcome the final, most important, difficult, and dangerous challenge of the story. Successfully overcoming this challenge resolves the main conflict of the story - the hero successfully achieves the goal they were pursuing throughout the story.
+
+Describe the climax of the movie in the following format:
+
+Location: Description of the location where the climax takes place. Describe what makes this location interesting, unique, exciting. Do not use the name of the location, describe it in a way that can be understood by a person who has never seen the movie.
+Challenge: The challenge the main character strives to overcome in this scene, the problem they're trying to solve, the main conflict in this scene. Describe what the protagonist is trying to do and what stands in their way. Do not write anything about the characters, only describe the challenge they're trying to overcome.
+Action: The exciting action that takes place in the scene, the specific thing the main character does in order to overcome the challenge and achieve their goal.
+
+Examples:
+
+Movie:
+Alien
+Your response:
+Location: A spaceship in outer space that has been infiltrated by a deadly extraterrestrial creature.
+Challenge: Destroy the creature before it kills everyone on board and escapes to Earth.
+Action: The hero engages in a tense and terrifying battle with the creature, and defeats it by blasting it out of the airlock into the vacuum of space.
+
+Movie:
+Lion King
+Your response:
+Location: Top of a rocky cliff surrounded by a raging wildfire.
+Challenge: The hero confronts his evil uncle who has usurped his throne, and must defeat him in combat on the edge of the cliff.
+Action: The hero in a fierce battle with the villain, causing the villain to fall off the rock and be devoured by the hyenas, while the takes his rightful place as the new king.
+
+Make your description clear and concise. Describe the ideas in a way that can be understood by a person who has never seen the movie. You must not use names of people or places - call the protagonist "the heroes", call the antagonist "the villain". Be as specific and concrete as you can, give examples, do not be abstract or vague. Make each description no longer than two sentences.
+
+Describe a climax for the movie: {{movie}}

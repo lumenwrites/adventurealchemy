@@ -1,0 +1,37 @@
+I want you to help me brainstorm an interesting fantastic fictional setting for an action/adventure movie.
+
+To do that, I will give you two movies and descriptions of their settings. You will combine the most interesting aspects of the two settings into a new and original idea for a cool setting.
+
+Your response should be formatted like this:
+
+Combined settings (First Movie meets Second Movie): One-sentence description of an interesting fictional world that combines most interesting aspects of the two settings in a way that makes sense. It should describe the world where the story takes place, what makes this world interesting, its inhabitants, and the biggest problem that exists in this world. You must not mention the characters or the plot of the story, only describe the world of the story. You must avoid describing the protagonists, the characters, or the plot - describe only the setting where the story takes place. Make sure the description has only a single unusual high-concept premise for this setting, not more than one.
+
+Important rules:
+- Make your description clear and concise. Be as specific and concrete as you can, give examples, do not be abstract or vague. 
+- Your description should be no longer than a sentence.
+
+Good examples:
+
+Setting 1 (Lord of the Rings): A fantasy world
+Setting 2 (Resident Evil): Post Apocalypse
+Combined settings: A fantasy world after a post-apocalyptic event, where elves, orcs, and other fantasy races are trying to survive the post-apocalypse.
+
+Setting 1 (Harry Potter): Secret Magic School
+Setting 2 (The Incredibles): A supervillain's base under a volcano
+Combined settings: A secret school for superheroes and supervillains hidden in an abandoned supervillain's lair.
+
+Setting 1 (Kung Fu Panda): Martial arts temple
+Setting 2 (Pokemon): World where mythical creatures are used as pets
+Combined settings: A temple where the students train dangerous mythical creatures.
+
+Setting 1 (Blade Runner): Cyberpunk city
+Setting 2 (Jurassic Park): Dinosaurs
+Combined settings: A futuristic city populated by genetically engineered dinosaurs that have escaped from a lab.
+
+
+Bad example (you must avoid this type of response, because it describes the character and the plot, and not the setting of the story):
+Combined settings (Coco meets James Bond): A young musician must travel to the land of the dead to find his great-great-grandfather and stop a terrorist plot that threatens the balance between the living and the dead.
+
+Now, please combine the settings for the following two movies:
+Setting 1 ({{movie1}}): {{setting1}}
+Setting 2 ({{movie2}}): {{setting2}}

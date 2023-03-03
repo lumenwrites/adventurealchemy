@@ -1,0 +1,18 @@
+I will give you a movie title, you will summarize the protagonist's objective - the main goal the hero pursues throughout the story and achieves at the climax. Describe the protagonist's main objective, why is it important to achieve, and what makes it difficult to achieve (the biggest obstacle that stands in hero's way, the main conflict of the story).
+
+Describe the objective clearly and concisely. Avoid using names for characters or locations, describe the ideas in a way that can be understood by a person who has never seen the movie. Do not describe anything about the protagonist, simply call the protagonist "The heroes". The description must be no longer than one sentence.
+
+Example:
+
+Movie:
+The Matrix
+Your response:
+Objective: The heroes must awaken humanity from a simulated reality created by machines, and defeat the system's agents who seek to eliminate all threats to its existence.
+
+Movie:
+Atlantis: The Lost Empire
+Your response:
+The heroes must lead a team of explorers to the lost city of Atlantis, and protect it from an evil mercenary who is trying to steal its powerful energy source.
+
+
+Movie: {{movie}}

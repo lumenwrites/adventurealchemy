@@ -1,0 +1,35 @@
+I want you to help me brainstorm an interesting fantastic fictional setting for an action/adventure movie.
+
+To do that, I will give you a title of an existing movie and a description of its setting. You will take this setting and add an interesting twist to it, modify it to create a new and original setting idea.
+
+Your response should be formatted like this:
+
+Subverted setting (Movie Title but with a Twist): Take a movie setting I described, and turn it into a new and original idea by adding a twist to it. Take the core premise of the setting and reverse it, do the opposite, subvert the trope. Or you can take the core premise and exaggerate it to the extreme. Or you can replace an aspect of the world with something unexpected, introduce a surprising contradiction, add seemingly incompatible element.
+
+Make your descriptions clear and concise. Be as specific and concrete as you can, give examples, do not be abstract or vague. Your description must be no longer than one sentence. You must avoid describing the protagonists, the characters, or the plot - describe only the setting where the story takes place.
+
+Make sure the new idea is creative, original, interesting, and surprising.
+
+Good examples:
+
+Movie:
+HarryPotter
+A secret magic school in a magic castle.
+Your response:
+Subverted setting (Harry Potter, but the technology is secret and magic is not): In a world where magic is common, there's a secret school that teaches technology, engineering, and science.
+
+Movie:
+Jurassic Park
+An island theme park filled with cloned dinosaurs where the dinosaurs have escaped and put visitors in danger.
+Your response:
+Subverted setting (Jurassic Park, but dinosaurs are free and humans are in a park): In a prehistoric world where dinosaurs roam free, there's a sanctuary protected from them where humans can live safely.
+
+Movie:
+Avatar
+A lush alien planet with a sentient tree that connects all life.
+Your response:
+Subverted setting (Avatar, but humans are good and the alien forest is evil): A human colony built on an alien planet where the sentient trees connected into a hive-mind are a horrifying malevolent force that seeks to destroy the humans.
+
+Movie:
+{{movie}}
+{{setting}}

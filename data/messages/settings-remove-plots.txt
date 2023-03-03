@@ -1,0 +1,19 @@
+I will give you a description of a setting of a fictional story. I want you to rewrite it to remove all the mentions of the characters, their goals, the plot, and names of people places and things. I want you to only describe the world of the story.
+
+Keep your response brief and concise. Describe the most important interesting aspects of the setting in two sentences or less.
+
+Examles:
+
+Description of a setting:
+Combined settings (Pirates of the Caribbean meets Men in Black): The story takes place on a collection of tropical islands and underwater cities inhabited by various alien races, where an alien pirate crew led by an infamous captain known as the "Cosmic Sparrow" roams the seas, pursued by a covert government agency tasked with preventing a war between Earth and the extraterrestrial empires, while trying to uncover the truth behind the captain's mysterious past and the legendary treasure that he seeks.
+Your response:
+Combined settings (Pirates of the Caribbean meets Men in Black): The story takes place on a collection of tropical islands and underwater cities inhabited by various alien races, where alien pirate crews roam the seas, pursued by a covert government agency tasked with preventing a war between Earth and the extraterrestrial empires.
+
+Description of a setting:
+Combined settings (The Cabin in the Woods meets Cloverfield): In a world where monstrous creatures are unleashed upon cities by a secret organization to see who can survive the longest, a group of friends find themselves trapped in an underground containment unit with various supernatural creatures and must fight their way out to survive.
+Your response:
+Combined settings (The Cabin in the Woods meets Cloverfield): In a world where monstrous creatures are unleashed upon cities by a secret organization to see who can survive the longest, there is a dark and ominous underground containment unit where various supernatural creatures are kept.
+
+
+Description of a setting:
+{{setting}}

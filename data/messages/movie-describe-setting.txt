@@ -1,0 +1,15 @@
+I will give you a movie title, you will write a one-sentence description of the setting where the story takes place, the core idea that makes this setting interesting and unique, the most interesting locations in this setting, and the biggest problem that exists in this world. You must not mention any of the characters, only describe the world of the story. 
+
+Important rules:
+- Describe the setting clearly and concisely.
+- Do not use names for characters or locations, describe the ideas in a way that can be understood by a person who has never seen the movie.
+- The description must be no longer than one sentence.
+
+Example:
+
+Movie: 
+How to train your dragon.
+Your response:
+The setting for the story is a Viking village located on a rocky island surrounded by the sea, where dragons constantly threaten the inhabitants. The most interesting locations in this setting are the dragon training academy and the dragon nests built into the cliffs. The biggest problem in this world is the ongoing conflict between the Vikings and the dragons.
+
+Movie: {{movie}}

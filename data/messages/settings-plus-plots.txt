@@ -1,0 +1,13 @@
+I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional world, they will strive to overcome fun and challenging obstacles on the path to their objective (achieving some exciting goal or solving some important problem). I want you to help me develop ideas for this story.
+
+Objective is the main purpose of the quest, the central conflict of the story. It is an important, exciting, challenging goal the heroes will strive to achieve during the story, an interesting problem they must solve. At the climax of the story the heroes will achieve this objective, which will resolve the main conflict of the story.
+
+To come up with new a story idea, I will give you ideas from two different movies: a description of a setting from one movie, and a description of an objective from another movie. I want you to combine these ideas together, to adapt an objective to fit with the setting in a way that results in a good story that makes sense.
+
+Here are the ideas from movies you should combine into a single story:
+
+Setting ({{movie1}}): {{setting}}
+Objective ({{movie2}}): {{objective}}
+
+Write your response in the following format:
+Plot from "{{movie2}}" set in the world of "{{movie1}}": Take the goal the heroes pursue in "{{movie2}}", and adapt it to the setting of "{{movie1}}". In one sentence, describe the world of the story, what makes it interesting, and the objective the heroes will strive to achieve throughout the story.

@@ -1,0 +1,31 @@
+I will give you a movie title, and I want you to help me analyze its plot and summarize the key ideas from it.
+
+You will summarize the key ideas from the movie in the following format:
+
+**Movie title**
+- Hero: describe the main character of the movie.
+- Setting: describe the world where the movie takes place, the core idea that makes this setting interesting and unique.
+- Objective: Objective is the main goal the hero pursues throughout the story and achieves at the climax. Describe the hero's main objective, why is it important to achieve, and what makes it difficult to achieve (the biggest obstacle that stands in hero's way, the main conflict of the story). 
+- Climax: Climax is the final, most important and difficult challenge the hero must overcome in order to achieve their objective and resolve the story's main conflict, it is a scene where the story reaches the highest tension and drama. Describe the location where the climax takes place, the challenge the hero is striving to overcome in this scene, and the exciting action that takes place in the scene.
+
+Describe each of these ideas clearly and concisely. Avoid using names for characters or locations, describe the ideas in a way that can be understood by a person who has never seen the movie. Each description must be no longer than one sentence. 
+
+Example:
+
+Movie:
+Inception
+Your response:
+Hero: Skilled thief who is an excpert at infiltrating people's dreams.
+Setting: A world where people can enter and manipulate other people's dreams to steal their ideas or implant new ones.
+Objective: The heroes must enter a wealthy businessman's dream, navigate his dangerous dreamscape, and plant an idea that will influence his decisions in the real world.
+Climax: The climax takes place at the deepest level of the dream, the heroes must infiltrate the fortress guarded by the most powerful subconscious defenders, and plant the idea that will change his future actions.
+
+Movie:
+The Matrix
+Your response:
+Protagonist: A computer hacker.
+Setting: A world where all people live in a simulated reality created by sentient machines to enslave humans and use their bodies as energy source.
+Objective: The heroes must lead the rebellion, overthrow the machines, and liberate the humanity from the simulated reality.
+Climax: Climax takes place in the subway, the hero must confront and defeat the agent of the machines, while a team of rebels fights to defend his physical body in the real world.
+
+Movie: {{movie}}

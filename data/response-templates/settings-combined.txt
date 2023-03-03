@@ -1,0 +1,5 @@
+# {{movie1}} meets {{movie2}}
+Setting 1: {{setting1}}
+Setting 2: {{setting2}}
+Combined:
+{{combinedSettings}}
