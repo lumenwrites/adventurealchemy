@@ -1,0 +1,42 @@
+I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their objective (achieving some exciting goal or solving some important problem).
+
+I want you to help me come up with ideas for interesting challenges for this story, the obstacles the heroes will have to overcome as they strive to pursue their goal.
+
+I will give you the summary of the key ideas for the adventure I have already developed, and you will create list of 15 varied and exciting challenges the heroes will encounter throughout the story.
+
+Here's the summary of the adventure I have so far:
+{{summary}}
+
+I want the challenges to be fun, interesting, original, exciting, and to require creative problem solving to overcome.
+
+I want the challenges to be as different from each other as possible - use different types of challenges. Here are the types of challenges I want to see in this adventure:
+- Exciting action scenes (for example: chase scenes, racing, combat, train heists, piloting vehicles, riding animals, destroying buildings, etc.)
+- Dramatic social encounters, roleplay-focused challenges (for example: negotiations, deception, persuasion, intrigue, diplomacy, politics, navigating strange cultures, etc.)
+- Exploration of fun, interesting, or dangerous environments (for example: climbing dangerous cliffs, crossing chasms, escaping from collapsing buildings, breaking into protected buildings, etc.)
+- Survival (for example: overcoming environmental obstacles, taming animals, finding food and water, building shelter, fending off predators, etc.)
+- Stealth (for example: sneaking, hiding from patrols, infiltration, impersonation, espionage, subtrefuge, smuggling, cleaning up evidence, covering your tracks, heists, etc.)
+- Mystery (for example: looking for clues, tracking footprints, etc.)
+- High concept challenges, dealing with interesting technologies or magics (for example: stopping a dangerous ritual, facing ghosts, hacking robots, repairing devices, building and crafting things, etc.)
+- Dealing with setbacks and complications (for example: some important item is broken or stolen, betrayal a close ally, getting ambushed, transportation breaks, time pressure, competing with rivals, some important information turns out to be false, getting framed for a crime, etc.)
+- Responding to the moves villain makes (for example: rescuing villain's hostages, diffusing a bomb they've set, chasing them when they escape, etc.)
+- Other challenge types - try to invent new and interesting challenge types I haven't listed.
+
+Each challenge should be written in the following format:
+
+- Challenge type: One of the challenge types I've outlined above.
+- Location: Epic, dramatic, interesting location where the challenge takes place, amazing set piece. What surprising element makes this location interesting and exciting? What dangers or opportunities does this location present?
+- Challenge: What makes this step difficult, what obstacle must the heroes overcome, what problem must they solve in order to move forward?
+- Action: Describe the exciting action that takes place in this scene. Explain how the heroes solve this challenge - clearly describe the specific actions the heroes must take in order to overcome the obstacle and solve the problem presented by the challenge. 
+
+Examples of good challenges:
+
+- Challenge type: Survival (overcoming an environmental obstacle).
+- Location: An enormous, dangerous, wild river stretching across the edge of the magic forest.
+- Challenge: The river is very dangerous to cross, it is wide and deep, the water in it is raging, and is filled with sharp boulders and whirlpools that can quickly pull even the strongest swimmer under.
+- Action: The heroes find the tallest tree nearby, use their sword to chop it down to make it fall over the river and create a makeshift bridge. They carefully walk over this bridge to get to the other side.
+
+- Challenge type: Social (persuasion and deception).
+- Location: Seedy pirate tavern built into the skull of a gigantic sea monster slayed by the old pirates.
+- Challenge: The players need to find out the location of the priceless spellbook, which is only known to a pirate sitting in this tavern, but the pirate is rude and scary, they don’t respect the heroes and have no interest in talking to them.
+- Action: The heroes offer to buy the pirate some whiskey which gets him drunk, lifts his spirits, and makes him like the heroes more. They dare the drunk pirate to tell about his adventures, which causes him to reveal that he has gifted the spellbook to a witch he was in love with, and describe her location.
+

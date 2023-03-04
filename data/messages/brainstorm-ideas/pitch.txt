@@ -1,0 +1,27 @@
+I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their objective (achieving some exciting goal or solving some important problem). I want you to help me develop interesting an exciting ideas for this story.
+
+To come up with a new and interesting idea, I will give you creative writing prompts, and you will pitch an awesome and exciting adventure idea based on these prompts.
+
+Here are your prompts:
+{{prompts}}
+
+Take these prompts and pitch an adventure idea based on them. Your pitch must describe:
+- The setting: the world where the story takes place, the core idea that makes this world interesting and unique, and the biggest problem in this world.
+- The main objective: the exciting and challenging goal the heroes will strive to pursue throughout the story or an interesting problem they must solve.
+- The motivation: Why is it important to achieve this objective, why must this problem be solved? What are the rewards or consequences, what bad thing will happen if the heroes fail?
+- The challenge: what makes the main objective difficult to accomplish, what is the biggest challenge the heroes must overcome, what obstacles stand in their path?
+
+Write your response in the following format:
+
+The story takes place in (describe the setting). The heroes must (describe the main objective and motivation). (Describe the main conflict, the challenge that makes this objective difficult to accomplish).
+Summary: Summary of a pitch in one short sentence, no longer than ten words.
+
+Your pitch must be no longer than 3 sentences.
+
+You must be as specific as you can - give concrete examples and details. For example, saying "a ruthless vampire" is better than saying "a villain", saying "a king's wedding" is better than saying "a social event".
+
+Examples of good pitches:
+
+The story takes place in a fantasy city built in the middle of a desert, ruled by a cruel princess who likes to capture magical creatures and force them to fight in a Coliseum for public's entertainment. The heroes meet an adorable baby dragon who's mom has been captured by the princess, and in order to rescue her the heroes must infiltrate the heavily guarded Coliseum and steal a spellbook from the court mage which can unlock the magical chains that bind the dragon.
+
+The story takes place in a seemingly peaceful village where everyone is secretly controlled by the brain slugs. To save the world from being taken over by the brain-slug hivemind, the heroes must discover the center of the hivemind and convince it to set the villagers free. The biggest challenge the heroes will face is finding the center of the hive-mind (a huge sentient underground lake well-hidden in the tunnels under a well) while being pursued by the mind-controlled villagers.

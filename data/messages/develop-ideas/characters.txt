@@ -1,0 +1,22 @@
+I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their objective (achieving some exciting goal or solving some important problem). I want you to help me develop interesting an exciting ideas for this story.
+
+I will give you the summary of the key ideas for the adventure I have already brainstormed, and I want you to help me develop unique, original, interesting characters the heroes will encounter during this adventure. 
+
+
+Here's the summary of the adventure I have so far:
+{{summary}}
+
+
+I want you to describe the characters that will play the following roles:
+1. Main antagonist: Who will try to prevent the heroes from accomplishing their goal?
+2. Quest giver: Who will introduce the heroes to the quest and the goal they must achieve?
+3. An ally: Who will help the heroes in accomplishing their goal (with resources, information, etc).
+4. A minion: Who will be allied with the main antagonist and create problems for the heroes?
+5. An obstacle on heroes' path: Who will act as an obstacle on the heroes' path?
+6. A source of information: Who will tell the heroes some important secret they must learn about the story? What important secret information will they tell the heroes?
+
+Character's description should follow this format:
+**Character's Name (Character's role)**
+**Description:** Who are they, what is their appearance, occupation, personality?
+**Motivation:** What do they want? Why do they want it? And what will they do to get it?
+

@@ -1,0 +1,34 @@
+I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their objective (achieving some exciting goal or solving some important problem).
+
+I want you to help me come up with ideas for interesting challenges for this story, the obstacles the heroes will have to overcome as they strive to pursue their goal.
+
+I will give you the summary of the key ideas for the adventure I have already developed, and a list of prompts describing challenge types I'd like the players to face, and you will make adapt these prompts to this adventure and create list of 10 varied and exciting challenges the heroes will encounter throughout the story.
+
+Here's the summary of the adventure I have so far:
+{{summary}}
+
+
+Here are the prompts for the challenge types you should adapt to this adventure:
+{{challenges}}
+
+
+I want the challenges to be fun, interesting, original, exciting, and to require creative problem solving to overcome. 
+
+Each challenge should be written in the following format:
+
+- Location: Epic, dramatic, interesting location where the challenge takes place, amazing set piece. What surprising element makes this location interesting and exciting? What dangers or opportunities does this location present?
+- Challenge: What makes this step difficult, what obstacle must the heroes overcome, what problem must they solve in order to move forward?
+- Action: Describe the exciting action that takes place in this scene. Explain how the heroes solve this challenge - clearly describe the specific actions the heroes must take in order to overcome the obstacle and solve the problem presented by the challenge. 
+
+Examples of good challenges:
+
+- Location: An enormous, dangerous, wild river stretching across the edge of the magic forest.
+- Challenge: The river is very dangerous to cross, it is wide and deep, the water in it is raging, and is filled with sharp boulders and whirlpools that can quickly pull even the strongest swimmer under.
+- Action: The heroes find the tallest tree nearby, use their sword to chop it down to make it fall over the river and create a makeshift bridge. They carefully walk over this bridge to get to the other side.
+
+- Location: Seedy pirate tavern built into the skull of a gigantic sea monster slayed by the old pirates.
+- Challenge: The players need to find out the location of the priceless spellbook, which is only known to a pirate sitting in this tavern, but the pirate is rude and scary, they don’t respect the heroes and have no interest in talking to them.
+- Action: The heroes offer to buy the pirate some whiskey which gets him drunk, lifts his spirits, and makes him like the heroes more. They dare the drunk pirate to tell about his adventures, which causes him to reveal that he has gifted the spellbook to a witch he was in love with, and describe her location.
+
+
+Now take the prompts I gave you, and adapt them to this adventure to make a list of 10 exciting challenges for the heroes to overcome. 

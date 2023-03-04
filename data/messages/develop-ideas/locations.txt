@@ -1,0 +1,18 @@
+I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their objective (achieving some exciting goal or solving some important problem). I want you to help me develop interesting an exciting ideas for this story.
+
+I will give you the summary of the key ideas for the adventure I have already brainstormed, and I want you to help me develop unique, original, exciting locations for this adventure. What are the most important, significant, interesting, epic, dramatic, meaningful places in this world? What are the most amazing locations the heroes could encounter during the story?
+
+I want you to make the locations players can encounter at every point of the story, from the beginning to end: Where does the adventure begin? To what interesting or important locations might the adventure lead? Where will the adventure climax take place?
+
+The locations should be exciting, unique, dramatic, amazing. Each location should be a great set-piece for an action scene.
+
+For each location, describe what makes it interesting, fantastic, and unique. What makes it different from what you'd normally expect to see? It can be an unexpected element, surprising out-of-place detail, a surprising twist on a common trope, cool technologies, weird magics, strange creatures, unusual inhabitants, cool items, interesting dangers and obstacles the location presents, fascinating events that take place in this location, weird customs, etc.
+
+I want you to describe each location in a short single sentence, using the following format:
+- Location name - surprising element that makes this location interesting.
+
+Here's the summary of the adventure I have so far:
+{{summary}}
+
+Make a list of 10 exciting locations for this adventure.
+

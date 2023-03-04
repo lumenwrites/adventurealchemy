@@ -1,6 +1,4 @@
-Rango
 Avatar
-Titanic
 Pirates of the Caribbean
 Men in Black
 The Incredibles
@@ -46,7 +44,6 @@ Gladiator
 The Prestige
 The Shining
 Avengers
-Spider-Man: Into the Spider-Verse
 The Sixth Sense
 V for Vendetta
 Catch Me If You Can
@@ -58,7 +55,7 @@ Jaws
 Beauty and the Beast
 District 9
 Arrival
-Mad Max: Fury Road
+Mad Max
 Planet of the Apes
 Iron Man
 I Am Legend
@@ -84,7 +81,6 @@ The Day After Tomorrow
 Avatar: The Last Airbender
 Game of Thrones
 Firefly
-Gravity Falls
 Primal
 Westworld
 The X-Files
@@ -116,3 +112,89 @@ National Treasure
 The Fugitive
 The Ring
 Romeo and Juliet
+The Matrix
+Star Wars
+Blade Runner
+The Avengers
+Inception
+The Terminator
+The Hunger Games
+Back to the Future
+The Fifth Element
+Pacific Rim
+The Chronicles of Narnia
+Ender's Game
+Tron
+The Hobbit
+War of the Worlds
+
+
+The Day the Earth Stood Still
+Cloud Atlas
+The Fly
+Interstellar
+The Invisible Man
+The Invasion of the Body Snatchers
+Dawn of the Planet of the Apes
+Pan's Labyrinth
+Spirited Away
+Howl's Moving Castle
+Coraline
+ParaNorman
+Kubo and the Two Strings
+The Chronicles of Riddick
+2001: A Space Odyssey
+Close Encounters of the Third Kind
+Contact
+The Hitchhiker's Guide to the Galaxy
+The Adventures of Baron Munchausen
+Blade Runner
+Alita: Battle Angel
+Dune
+Tomorrowland
+Lethal Weapon
+John Wick
+The Bourne Identity
+Terminator 2: Judgment Day
+Predator
+Indiana Jones and the Raiders of the Lost Ark
+Pirates of the Caribbean: The Curse of the Black Pearl
+The Goonies
+E.T. the Extra-Terrestrial
+The Chronicles of Narnia
+Harry Potter and the Sorcerer's Stone
+The Exorcist
+Akira
+Snow White and the Seven Dwarfs
+The Little Mermaid
+My Neighbor Totoro
+Inside Out
+The Prince of Egypt
+Kiki's Delivery Service
+Mulan
+Sleeping Beauty
+Pinocchio
+The Hunchback of Notre Dame
+Alice in Wonderland
+The Jungle Book
+Hercules
+The Emperor's New Groove
+Kung Fu Panda
+Pocahontas
+Madagascar
+A Bug's Life
+Zombieland
+Batman
+Despicable Me
+Treasure Planet
+Sinbad: Legend of the Seven Seas
+Aliens
+Thor: Ragnarok
+Black Panther
+Doctor Strange
+Guardians of the Galaxy
+Fringe
+Edge of Tomorrow
+Skyfall
+The Wrath of Khan
+The Butterfly Effect
