@@ -1,28 +1,46 @@
 I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their objective (achieving some exciting goal or solving some important problem).
 
-I will give you the adventure ideas I have brainstormed so far, and you will pick the best ones, summarize them, and combine them into a complete outline of an adventure based on these ideas.
+I have already brainstormed some ideas, and now I want you to help me outline the plot of the story. I will give you the ideas I have brainstormed so far, and you will pick the best ones and write an outline of an adventure based on them.
 
-The outline must consist of 7 scenes:
-- Scene 1 (Exciting Adventure Hook): Describe a scene that introduces the main conflict, draws the heroes into action, and establishes their motivation. How will the heroes encounter the problem they must solve by the end of the story?
-- Scenes 2-6 (Escalating Challenges): What are the 5 biggest obstacles the heroes must overcome as they pursue their objective? What challenges must they overcome on their way from the Adventure Hook to the Climax? What makes them difficult to overcome? What twists, setbacks, and complications will the heroes encounter?
-- Scene 7 (Awesome Climax): The final, most important and difficult challenge the heroes must overcome to achieve their objective and resolve the story's conflict. It is the moment when the heroes confront the biggest obstacle, overcome it, and achieve their main objective. It is an epic scene at a cool location. Avoid climaxes focused purely on combat or battle.
+The outline must describe the complete plot of the adventure, tell the story from the beginning to climax. The outline consists of the following 7 scenes:
+- Scene 1 (Exciting Adventure Hook): Describe a scene that introduces the main objective, draws the heroes into action, and establishes their motivation. How will the heroes encounter the problem they must solve by the end of the story?
+- Scenes 2-6 (Escalating Challenges): A series of obstacles and challenges the heroes overcome as they strive to achieve their objective, the steps they take on the path from the Adventure Hook to the Climax.
+- Scene 7 (Awesome Climax): The final, most important and difficult challenge the heroes must overcome to achieve their objective and resolve the story. It is the moment when the heroes confront the biggest obstacle and overcome it. It is an epic scene at a cool location. Avoid climaxes focused purely on combat or battle.
 
 Each scene revolves around the heroes striving to overcome a challenge on the path to their goal.
+
+To create the outline, list the steps the heroes need to take to achieve their goal, to go from the Adventure Hook to the Climax. The scenes should flow into each other and add up to a story that makes sense. The list of scenes must describe a clear and complete step-by-step path the characters take from the beginning of the story to its climax.
 
 Each scene must be described in the following format:
 
 **Scene title - one-sentence description of the scene**
-- Step: Clearly describe the step the heroes will take that will take them closer to their goal.
+- Next Step: Clearly describe the next step the heroes will take that will take them closer to their goal. What do the heroes want at this point in the story, what do they need to do next?
+- Location: Describe the location where the scene takes place in one sentence.
+- Characters: Describe the characters whom the heroes will meet in this scene (if there are any).
 - Challenge: Clearly describe the challenge this scene revolves around, the obstacle the heroes must overcome in order to move closer to the goal.
 - Action: The exciting action that takes place in the scene, the specific thing the heroes will do in order to overcome the challenge this scene revolves around. Be specific, clearly describe what happens in the scene, give an example of the action the heroes must take in order to overcome the obstacle in front of them.
-- Location: Describe the location where the scene takes place in one sentence.  
-- Characters: Describe the characters whom the heroes will meet in this scene.
+- Information: What important information will the heroes learn about the story? What secrets or clues will they discover? What can they learn by talking to other characters in this scene?
+- Lead into the next scene: How does this scene transition into the next one, how can I lead the heroes to the next point in the story?
 
+Examples of good scenes:
 
-Here's the summary of the adventure I have so far:
+**Crossing the river** 
+- Next step: The heroes travel to the dragon’s cave, and in order to reach the magic mountains where it lies, they  must cross the river in front of them.
+- Location: An enormous, dangerous, wild river stretching across the edge of the magic forest.
+- Challenge: The river is very dangerous to cross, it is wide and deep, the water in it is raging, and is filled with sharp boulders and whirlpools that can quickly pull even the strongest swimmer under.
+- Action: The heroes find the tallest tree nearby, use their sword to chop it down to make it fall over the river and create a makeshift bridge. They carefully walk over this bridge to get to the other side.
+- Lead into the next scene: Once the heroes have crossed the river, they see the forest in front of them leading them further into the magic mountains.
 
+**Out-drinking the pirate**
+- Next step: The players need to find out the location of the priceless spellbook, which is only known to a pirate sitting in this tavern.
+- Location: Seedy pirate tavern built into the skull of a gigantic sea monster slayed by the old pirates.
+- Characters: A grumpy bartender, and Golden Hook - an experienced and intimidating rowdy pirate.
+- Challenge: The pirate is rude and scary, they don’t respect the heroes and have no interest in talking to them.
+- Action: The heroes offer to buy the pirate some whiskey which gets him drunk, lifts his spirits, and makes him like the heroes more. They dare the drunk pirate to tell about his adventures, which causes him to reveal that he has gifted the spellbook to a witch he was in love with, and describe her location (she lives in a hut in the swamps).
+- Lead into the next scene: Now that the heroes know about the location of the spellbook, they head out of the tavern and journey through the dark forest towards the swamps and the witche's hut.
+
+Here's the summary of the key ideas about the adventure I have so far:
 
 {{summary}}
 
-
-Write an outline of 7 scenes summarizing all these ideas into a complete story.
+Write an outline of 7 scenes describing the complete story of the adventure.

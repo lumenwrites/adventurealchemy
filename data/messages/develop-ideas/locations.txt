@@ -9,7 +9,7 @@ The locations should be exciting, unique, dramatic, amazing. Each location shoul
 For each location, describe what makes it interesting, fantastic, and unique. What makes it different from what you'd normally expect to see? It can be an unexpected element, surprising out-of-place detail, a surprising twist on a common trope, cool technologies, weird magics, strange creatures, unusual inhabitants, cool items, interesting dangers and obstacles the location presents, fascinating events that take place in this location, weird customs, etc.
 
 I want you to describe each location in a short single sentence, using the following format:
-- Location name - surprising element that makes this location interesting.
+- Location name - surprising element that makes this location interesting. What dangers and opportunities does this location present?
 
 Here's the summary of the adventure I have so far:
 {{summary}}

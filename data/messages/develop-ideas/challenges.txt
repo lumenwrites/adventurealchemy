@@ -2,7 +2,7 @@ I need help writing a lighthearted one-shot adventure for a table-top roleplayin
 
 I want you to help me come up with ideas for interesting challenges for this story, the obstacles the heroes will have to overcome as they strive to pursue their goal.
 
-I will give you the summary of the key ideas for the adventure I have already developed, and you will create list of 15 varied and exciting challenges the heroes will encounter throughout the story.
+I will give you the summary of the key ideas for the adventure I have already developed, and you will create list of 10 varied and exciting challenges the heroes will encounter throughout the story.
 
 Here's the summary of the adventure I have so far:
 {{summary}}
@@ -40,3 +40,4 @@ Examples of good challenges:
 - Challenge: The players need to find out the location of the priceless spellbook, which is only known to a pirate sitting in this tavern, but the pirate is rude and scary, they don’t respect the heroes and have no interest in talking to them.
 - Action: The heroes offer to buy the pirate some whiskey which gets him drunk, lifts his spirits, and makes him like the heroes more. They dare the drunk pirate to tell about his adventures, which causes him to reveal that he has gifted the spellbook to a witch he was in love with, and describe her location.
 
+Now make a list of 10 varied and exciting challenges the heroes will encounter on this adventure.

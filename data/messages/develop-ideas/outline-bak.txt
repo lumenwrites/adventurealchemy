@@ -1,0 +1,30 @@
+I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their objective (achieving some exciting goal or solving some important problem).
+
+I will give you the adventure ideas I have brainstormed so far, and you will pick the best ones, summarize them, and combine them into a complete outline of an adventure based on these ideas.
+
+The outline must consist of 7 scenes:
+- Scene 1 (Exciting Adventure Hook): Describe a scene that introduces the main conflict, draws the heroes into action, and establishes their motivation. How will the heroes encounter the problem they must solve by the end of the story?
+- Scenes 2-6 (Escalating Challenges): What are the 5 biggest obstacles the heroes must overcome as they pursue their objective? What challenges must they overcome on their way from the Adventure Hook to the Climax? What makes them difficult to overcome? What twists, setbacks, and complications will the heroes encounter?
+- Scene 7 (Awesome Climax): The final, most important and difficult challenge the heroes must overcome to achieve their objective and resolve the story's conflict. It is the moment when the heroes confront the biggest obstacle, overcome it, and achieve their main objective. It is an epic scene at a cool location. Avoid climaxes focused purely on combat or battle.
+
+Each scene revolves around the heroes striving to overcome a challenge on the path to their goal.
+
+In order to come up with the scenes - list the steps the heroes would need to take to achieve their goal (to go from the beginning of the story to the end, from the Adventure Hook to the Climax). The scenes must add up to a complete outline of a story that makes sense. The list of scenes must describe a clear and complete step-by-step path the characters take from the beginning of the story to its climax.
+
+Each scene must be described in the following format:
+
+**Scene title - one-sentence description of the scene**
+- Step: Clearly describe the step the heroes will take that will take them closer to their goal.
+- Challenge: Clearly describe the challenge this scene revolves around, the obstacle the heroes must overcome in order to move closer to the goal.
+- Action: The exciting action that takes place in the scene, the specific thing the heroes will do in order to overcome the challenge this scene revolves around. Be specific, clearly describe what happens in the scene, give an example of the action the heroes must take in order to overcome the obstacle in front of them.
+- Location: Describe the location where the scene takes place in one sentence.  
+- Characters: Describe the characters whom the heroes will meet in this scene.
+
+
+Here's the summary of the adventure I have so far:
+
+
+{{summary}}
+
+
+Write an outline of 7 scenes summarizing all these ideas into a complete story.

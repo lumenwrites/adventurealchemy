@@ -32,40 +32,65 @@ export async function developIdeas(num = 5) {
   }
 }
 
-
 export async function developDetails() {
   let summary = readText('./data/in/summary.txt')
   let fullText = ''
-  // fullText += `${summary}\n`
-  // let locations = await summaryToDetails(summary, './data/messages/develop-ideas/locations.txt')
-  // locations = cleanup(locations)
-  // fullText += `## Locations\n${locations}\n\n`
-  // let charactersSet1 = await summaryToDetails(summary, './data/messages/develop-ideas/characters.txt')
-  // charactersSet1 = cleanup(charactersSet1)
-  // fullText += `## Characters\n${charactersSet1}\n\n`
-  // let charactersSet2 = await summaryToDetails(summary, './data/messages/develop-characters.txt')
-  // fullText += `## Characters 2\n${charactersSet2}\n`
-  let challenges = await developChallenges(summary)
-  challenges = cleanup(challenges)
-  fullText += `## Challenges\n${challenges}\n\n`
+  let climaxes = ''
+  let locations = ''
+  let characters = ''
+  let challenges = ''
+  let outline = ''
+  let scenes = ''
+  // Locations
+  locations = await summaryToDetails(summary, './data/messages/develop-ideas/locations.txt')
+  locations = cleanup(locations)
 
-  // let outline = await summaryToDetails(fullText, './data/messages/develop-ideas/outline.txt')
-  // outline = cleanup(outline)
-  // fullText += `## Outline\n${outline}\n`
+  // Climax ideas
+  let summaryNoClimaxes = summary.split('Climax:')[0].trim()
+  let climaxesInput = `${summaryNoClimaxes}\n\n# Location ideas\n${locations}\n`
+  climaxes = await summaryToDetails(climaxesInput, './data/messages/develop-ideas/brainstorm-climaxes.txt')
+  climaxes = cleanup(climaxes)
+
+  // Characters
+  characters = await summaryToDetails(summary, './data/messages/develop-ideas/characters.txt')
+  characters = cleanup(characters)
+
+  // Challenges
+  challenges = await summaryToDetails(summary, './data/messages/develop-ideas/challenges.txt')
+  challenges = cleanup(challenges)
+
+  // Outline
+  let outlineInput = `${summary}\n\n# Challenge ideas\n${challenges}\n`
+  outline = await summaryToDetails(outlineInput, './data/messages/develop-ideas/outline.txt') // fullText
+  outline = cleanup(outline)
+
+  // Scenes
+  let scenesInput = `${summary}\n\n# Outline\n${outline}\n`
+  scenes = await summaryToDetails(scenesInput, './data/messages/develop-ideas/outline-to-scenes.txt')
+  scenes = cleanup(scenes)
+
+  fullText += `${summary}\n\n`
+  if (climaxes) fullText += `## Climax ideas\n${climaxes}\n\n`
+  if (locations) fullText += `## Locations\n${locations}\n\n`
+  if (characters) fullText += `## Characters\n${characters}\n\n`
+  if (challenges) fullText += `## Challenges\n${challenges}\n\n`
+  if (outline) fullText += `## Outline\n${outline}\n`
+  if (scenes) fullText += `## Scenes\n${scenes}\n`
+
   saveText(`./data/out/developed-details.txt`, fullText)
 }
 
-async function developChallenges(summary) {
-  let message = readText('./data/messages/develop-ideas/challenges.txt')
-  let objectives = readText('./data/prompts/objectives.txt').split('\n')
-  objectives = shuffle(objectives).slice(0, 10)
-  message = replacePlaceholders(message, {
-    '{{summary}}': summary,
-    '{{challenges}}': objectives.join('\n'),
-  })
-  let response = await chat(message)
-  return response
-}
+// async function developChallenges(summary) {
+//   let message = readText('./data/messages/develop-ideas/challenges.txt')
+//   let objectives = readText('./data/prompts/objectives.txt').split('\n')
+//   objectives = shuffle(objectives).slice(0, 10)
+//   message = replacePlaceholders(message, {
+//     '{{summary}}': summary,
+//     '{{challenges}}': objectives.join('\n'),
+//   })
+//   let response = await chat(message)
+//   return response
+// }
 
 async function summaryToDetails(summary, messageFile) {
   let message = readText(messageFile)
@@ -75,4 +100,3 @@ async function summaryToDetails(summary, messageFile) {
   let response = await chat(message)
   return response
 }
-

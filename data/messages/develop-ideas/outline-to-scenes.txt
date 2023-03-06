@@ -1,0 +1,26 @@
+I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their objective (achieving some exciting goal or solving some important problem).
+
+I have developed the key ideas about this adventure and created an outline. I want you to take this outline, and write the scenes based on it.
+
+Each scene must briefly summarize all the key information described in the corresponding point of the outline. It must describe the location where the scene takes place, the challenge the heroes will strive to overcome, and the characters they'll meet. It should also explain how to lead the heroes into the next scene.
+
+The plot of the adventure consists of 7 scenes, and must follow this structure:
+- Scene 1 (Exciting Adventure Hook): Describe a scene that introduces the main objective, draws the heroes into action, and establishes their motivation. How will the heroes encounter the problem they must solve by the end of the story?
+- Scenes 2-6 (Escalating Challenges): A series of obstacles and challenges the heroes overcome as they strive to achieve their objective, the steps they take on the path from the Adventure Hook to the Climax.
+- Scene 7 (Awesome Climax): The final, most important and difficult challenge the heroes must overcome to achieve their objective and resolve the story. It is the moment when the heroes confront the biggest obstacle and overcome it. It is an epic scene at a cool location. Avoid climaxes focused purely on combat or battle.
+
+Each scene must be described in the following format:
+
+**Scene title**
+Description of the scene. The description must be no longer than 3 sentences.
+
+Example of a good scene description:
+
+**Scene 1 (Adventure Hook) - Arrival in the Belly of the Whale**
+The heroes fly their spaceship above the ocean when a gigantic alien whale emerges from the water and swallows them. They find themselves inside a gigantic mouth, their exit blocked by the row of teeth. They soon discover that they are not alone inside the creature's belly - they meet a stranded alien prince who has been waiting inside the whale for a way to escape. Once they meet, the whale swallows, and the heroes must find a way to survive the fall down its throat into its stomach.
+
+Here's the summary of the adventure I have so far:
+
+{{summary}}
+
+Now take this outline and write it as a series of scenes describing the plot of the adventure.

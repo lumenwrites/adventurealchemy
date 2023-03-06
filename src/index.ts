@@ -6,9 +6,9 @@ import * as dotenv from 'dotenv'
 dotenv.config()
 
 async function main() {
-  // await pitchIdeas(50)
-  // await developIdeas(50)
-  developDetails()
+  // await pitchIdeas(100)
+  await developIdeas(100)
+  // developDetails()
 }
 
 main()
