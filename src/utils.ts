@@ -80,3 +80,8 @@ export function shuffle(array) {
   return array;
 }
 
+export function getRandomPrompt(filePath) {
+  let prompts = readText(filePath).split('\n')
+  let prompt = prompts[Math.floor(Math.random() * prompts.length)]
+  return prompt
+}

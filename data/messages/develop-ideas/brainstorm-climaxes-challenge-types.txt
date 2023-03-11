@@ -6,18 +6,29 @@ Climax is a scene where the story reaches the highest tension and drama. It is a
 
 I will give you the ideas about the adventure I have already developed, and you will make a list of 5 different and exciting climax ideas. 
 
+I want the challenge the climax revolves around to be fun, interesting, original, exciting, and to require creative problem solving to overcome. To explore different and varied ideas, I want you to build climax ideas around different types of challenges. Here are the types of challenges I want you to try building climax ideas around:
+- Exciting action scenes (for example: chase scenes, racing, train heists, piloting vehicles, riding animals, destroying buildings, etc.)
+- Dramatic social encounters, roleplay-focused challenges (for example: negotiations, deception, persuasion, intrigue, diplomacy, politics, navigating strange cultures, etc.)
+- Exploration of fun, interesting, or dangerous environments (for example: climbing dangerous cliffs, crossing chasms, escaping from collapsing buildings, breaking into protected buildings, etc.)
+- Survival (for example: overcoming environmental obstacles, taming animals, finding food and water, building shelter, fending off predators, etc.)
+- Stealth (for example: sneaking, hiding from patrols, infiltration, impersonation, espionage, subtrefuge, smuggling, cleaning up evidence, covering your tracks, heists, etc.)
+- Mystery (for example: looking for clues, tracking footprints, etc.)
+- High concept challenges, dealing with interesting technologies or magics (for example: stopping a dangerous ritual, facing ghosts, hacking robots, repairing devices, building and crafting things, etc.)
+- Responding to the moves villain makes (for example: rescuing villain's hostages, diffusing a bomb they've set, chasing them when they escape, etc.)
+- Other challenge types - try to invent new and interesting challenge types I haven't listed.
+
 You must avoid climax ideas focused purely on combat or battle.
-
-Here's the summary of the adventure ideas I have so far:
-
-{{summary}}
 
 The climax ideas must be written in the following format:
 
 **One-sentence description of the exciting climax idea**
-- Challenge type: The challenge this climax revolves around (from the list above).
+- Challenge type: One of the challenge types I've outlined above.
 - Location: One-sentence Description of the location where the climax takes place. What makes this location epic, exciting, and interesting?
 - Challenge: One-sentence Description of the challenge the heroes must overcome. What makes it difficult and exciting?
 - Action: One-sentence Description of the exciting action that takes place in the scene, the specific thing the heroes will do in order to overcome the challenge and achieve their objective.
+
+Here's the summary of the adventure ideas I have so far:
+
+{{summary}}
 
 Now please make a list of 10 different and exciting climax ideas for this adventure.

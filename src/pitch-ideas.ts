@@ -1,11 +1,6 @@
 import { chat } from './chatgpt'
-import { shuffle, readText, readJson, saveJson, replacePlaceholders, saveText, getRandomInt, cleanup } from './utils'
+import { shuffle, readText, readJson, saveJson, replacePlaceholders, saveText, getRandomInt, getRandomPrompt, cleanup } from './utils'
 
-function getRandomPrompt(filePath) {
-  let prompts = readText(filePath).split('\n')
-  let prompt = prompts[Math.floor(Math.random() * prompts.length)]
-  return prompt
-}
 
 function randomItem(list) {
   return list[Math.floor(Math.random() * list.length)]

@@ -1,0 +1,15 @@
+I am making a list of creative writing prompts, and I need you to help me make a collection of awesome ideas for a story climax.
+
+Climax is a scene where the story reaches the highest tension and drama. It is an epic, dramatic scene that takes place at a really cool location and is filled with exciting action. Climax revolves around the hero of the story striving to overcome the final, most important, difficult, and dangerous challenge of the story. Successfully overcoming this challenge resolves the main conflict of the story - the hero successfully achieves the objective they were pursuing throughout the story. Often (but not always) at climax the hero will confront and defeat the main antagonist of the story.
+
+I will give you a title of the movie, and I want you to describe its climax in the following format:
+
+One-sentence description of the climax - who the characters are, where the scene takes place, what the characters are trying to do, what stands in their way.
+- Location: Description of the location where the climax takes place. Describe what makes this location interesting, unique, exciting. Do not use the name of the location, describe it in a way that can be understood by a person who has never seen the movie.
+- Challenge: The challenge the main characters strive to overcome in this scene, the problem they're trying to solve, the main conflict in this scene.
+- Action: The exciting action that takes place in the scene, the specific thing the main character does in order to overcome the challenge and achieve their goal.
+
+Make your descriptions clear and concise. Describe the ideas in a way that can be understood by a person who has never seen the movie. Avoid using names of people and locations. Be as specific and concrete as you can, give examples, do not be abstract or vague. Make each description no longer than two sentences.
+
+Now please describe the climax for the following movie:
+{{movie}}

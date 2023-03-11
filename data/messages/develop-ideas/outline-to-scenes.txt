@@ -12,12 +12,29 @@ The plot of the adventure consists of 7 scenes, and must follow this structure:
 Each scene must be described in the following format:
 
 **Scene title**
-Description of the scene. The description must be no longer than 3 sentences.
+Description of the scene. The description must be no longer than 3 sentences. It must describe the location where the scene takes place, the characters the heroes will meet here, the challenge they must overcome, the information they'll learn about the story.
 
 Example of a good scene description:
 
-**Scene 1 (Adventure Hook) - Arrival in the Belly of the Whale**
+**Arrival in the Belly of the Whale (Adventure Hook)**
 The heroes fly their spaceship above the ocean when a gigantic alien whale emerges from the water and swallows them. They find themselves inside a gigantic mouth, their exit blocked by the row of teeth. They soon discover that they are not alone inside the creature's belly - they meet a stranded alien prince who has been waiting inside the whale for a way to escape. Once they meet, the whale swallows, and the heroes must find a way to survive the fall down its throat into its stomach.
+
+Example of a good complete outline:
+
+**Meeting  the baby dragon (Adventure Hook)**
+The heroes travel through a magic forest and meet a sad baby dragon who tells them that a group of warriors have captured and kidnapped his mom.
+**Tracking the mama dragon (Challenge 1)**
+The heroes follow the tracks through the dangerous part of the forest until they find the city where the dragon mom was taken.
+**Infiltrating the city (Challenge 2)**
+The gates of the city are guarded, and the heroes must convince, bribe, or intimidate the guards into letting them in.
+**Discovering where the dragon is held captive (Challenge 3)**
+Talk to the people who live in the city to find out what happened to the dragon mom, and learn that she is being held in the Coliseum in the middle of the city, and is about to fight gladiators and various monsters for the public’s entertainment.
+**Entering the coliseum (Challenge 4)**
+Only rich and powerful citizens are permitted to enter the coliseum, the only way for heroes to get in is as gladiators, so they must talk or sneak their way into the gladiator pits.
+**Breaking the dragon's chains (Challenge 5)**
+Once the heroes enter the arena as gladiators, they must avoid getting killed by the enraged dragon and convince her that they’re trying to help. They see the evil princess, her guards, and her courts mage watching the show. They must reach the stands and obtain the mage’s spellbook to unlock the magic collar around the dragon’s neck.
+**Liberating the dragon (Climax)**
+The heroes obtain the spellbook and must cast a spell to liberate the dragon, while protecting her and themselves from the mage and the guards, and avoiding collateral damage (making sure the dragon doesn’t kill the innocent bystanders).
 
 Here's the summary of the adventure I have so far:
 

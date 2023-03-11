@@ -1,12 +1,16 @@
 import { chat } from './chatgpt'
-import { shuffle, readText, readJson, saveJson, replacePlaceholders, saveText, cleanup } from './utils'
+import { shuffle, readText, readJson, saveJson, replacePlaceholders, saveText, getRandomPrompt, getRandomInt, cleanup } from './utils'
 
 async function baseElements(pitch) {
   let message = readText('./data/messages/develop-ideas/base-elements.txt')
+  let climax = getRandomPrompt('./data/prompts/climaxes.txt')
+
   message = replacePlaceholders(message, {
     '{{pitch}}': pitch,
+    '{{climax}}': climax
   })
   let response = await chat(message)
+  response = response.replace('**Climax:**', `**Climax (${climax}):**`)
   return response
 }
 
@@ -32,8 +36,7 @@ export async function developIdeas(num = 5) {
   }
 }
 
-export async function developDetails() {
-  let summary = readText('./data/in/summary.txt')
+export async function developDetails(summary) {
   let fullText = ''
   let climaxes = ''
   let locations = ''
@@ -46,8 +49,15 @@ export async function developDetails() {
   locations = cleanup(locations)
 
   // Climax ideas
-  let summaryNoClimaxes = summary.split('Climax:')[0].trim()
-  let climaxesInput = `${summaryNoClimaxes}\n\n# Location ideas\n${locations}\n`
+  let summaryNoClimaxes = summary.split('Climax')[0].trim()
+  let climaxesInput = `${summaryNoClimaxes}\n\n`
+  climaxesInput += `# Location ideas\n${ locations }\n\n`
+  climaxesInput += `Here's a list of challenge types. Make one climax idea for each challenge type:\n`
+  let climaxChallenges = readText('./data/prompts/climaxes.txt')
+  climaxChallenges = climaxChallenges.split('\n')
+  climaxChallenges = shuffle(climaxChallenges).slice(0, 10)
+  climaxChallenges = climaxChallenges.map((c, idx) => `${idx + 1}. ${c}`)
+  climaxesInput += climaxChallenges.join('\n')
   climaxes = await summaryToDetails(climaxesInput, './data/messages/develop-ideas/brainstorm-climaxes.txt')
   climaxes = cleanup(climaxes)
 
@@ -61,6 +71,7 @@ export async function developDetails() {
 
   // Outline
   let outlineInput = `${summary}\n\n# Challenge ideas\n${challenges}\n`
+  outlineInput = summary
   outline = await summaryToDetails(outlineInput, './data/messages/develop-ideas/outline.txt') // fullText
   outline = cleanup(outline)
 
@@ -74,10 +85,11 @@ export async function developDetails() {
   if (locations) fullText += `## Locations\n${locations}\n\n`
   if (characters) fullText += `## Characters\n${characters}\n\n`
   if (challenges) fullText += `## Challenges\n${challenges}\n\n`
-  if (outline) fullText += `## Outline\n${outline}\n`
+  if (outline) fullText += `## Outline\n${outline}\n\n`
   if (scenes) fullText += `## Scenes\n${scenes}\n`
 
   saveText(`./data/out/developed-details.txt`, fullText)
+  return fullText
 }
 
 // async function developChallenges(summary) {

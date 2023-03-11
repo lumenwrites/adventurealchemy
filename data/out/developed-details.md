@@ -1,4 +1,20 @@
 ## High schoolers explore a jungle temple to disarm traps and prevent a vengeful spirit's wrath.
+**Prompts:**
+Setting: High School + Jungle temple
+Objective: Explore or scout a dangerous place
+
+**Pitch:** The story takes place in a high school built on an ancient jungle temple, where the students discover a hidden entrance to the temple. The heroes, a group of students, must explore the temple and find a way to disarm the traps before they awaken an angry spirit who seeks revenge on the school. The biggest challenge the heroes will face is solving the temple's puzzles and avoiding the booby traps while the spirit's anger grows stronger with every misstep.
+**Setting:** The story takes place in a high school built on an ancient jungle temple, where the architecture of the temple influences the daily life of the school, with vines and foliage growing on every wall and building.
+**Objective:** The heroes must explore the temple, solve puzzles, and disarm the traps to prevent the angry spirit from destroying the school and everyone in it. They must figure out why the spirit is angry and how they can appease it before it's too late.
+**Antagonist:** The main antagonist is the angry spirit of an ancient temple guardian who has been awakened by the students' exploration, taking on the form of a terrifying giant snake with glowing eyes and razor-sharp fangs. Its motivation is to protect the temple and the ancient artifacts inside at all costs and will stop at nothing to do so.
+**Exciting Adventure Hook:** The students exploring the school stumble upon an old diary that tells of forgotten spaces and hidden treasures within the temple. They venture into the temple excited for adventure but quickly realize they have awoken something dangerous and must find a way to solve the temple's mysteries before it's too late.
+**Plot Twist:** The heroes discover that the spirit isn't angry, but instead, it's been manipulated by a group of archaeologists who are looking to capitalize on the ancient artifacts within the temple. The archaeologists have left traps in the temple suitable for their excavations that the heroes must also disarm to save the day.
+**Climax (Complete a project):**
+- Location: The climax takes place in the heart of the temple, where the spirit's power is at its strongest, the room filled with ancient artifacts and decoding mechanisms.
+- Challenge: The challenge the heroes must overcome is to complete a project that reveals the history of the temple and appeases the spirit's angry desires by uncovering hidden knowledge in the ancient code.
+- Action: The heroes must work together to decode the temple's hidden language to complete the project, but as they do so, they realize the archaeologists have booby-trapped the mechanism, and they must stop the trap from triggering while continuing to decode even faster than before.
+
+## High schoolers explore a jungle temple to disarm traps and prevent a vengeful spirit's wrath.
 **Pitch:** The story takes place in a high school built on an ancient jungle temple, where the students discover a hidden entrance to the temple. The heroes, a group of students, must explore the temple and find a way to disarm the traps before they awaken an angry spirit who seeks revenge on the school. The biggest challenge the heroes will face is solving the temple's puzzles and avoiding the booby traps while the spirit's anger grows stronger with every misstep.
 **Setting:** The story takes place in a high school built on an ancient jungle temple, where the architecture of the temple influences the daily life of the school, with vines and foliage growing on every wall and building.
 **Objective:** The heroes must explore the temple, solve puzzles, and disarm the traps to prevent the angry spirit from destroying the school and everyone in it. They must figure out why the spirit is angry and how they can appease it before it's too late.
@@ -210,3 +226,7 @@ The heroes infiltrate the archaeologists' campsite and destroy their equipment a
  
 **Completing the Project (Climax)**
 The heroes complete a special project that will reveal the temple's history and appease the angry spirit. They disarm the final booby trap, appease the angry spirit, and prevent the archaeologists from taking the artifacts. They learn the temple's history and how to appease the angry spirit while disarming the traps and decoding the mechanism to prevent it from triggering the traps.
+
+
+---
+

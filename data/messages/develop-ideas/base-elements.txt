@@ -18,3 +18,6 @@ Each bullet point should be no longer than a sentence.
 
 Now please develop this adventure idea:
 {{pitch}}
+
+Here's a prompt for the challege the climax should revolve around:
+{{climax}}
