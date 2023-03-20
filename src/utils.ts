@@ -4,23 +4,23 @@ import path from 'path'
 
 export function cleanup(text) {
   let cleanedupText = text
-  cleanedupText = text.replaceAll('\n\n', '\n').replaceAll('\n\n', '\n').trim()
   try {
-  } catch (e) { }
+    cleanedupText = text.replaceAll('\n\n', '\n').replaceAll('\n\n', '\n').trim()
+  } catch (e) {}
   return cleanedupText
 }
 
 /**
-* Returns a random integer between min (inclusive) and max (inclusive).
-* The value is no lower than min (or the next integer greater than min
-* if min isn't an integer) and no greater than max (or the next integer
-* lower than max if max isn't an integer).
-* Using Math.round() will give you a non-uniform distribution!
-*/
+ * Returns a random integer between min (inclusive) and max (inclusive).
+ * The value is no lower than min (or the next integer greater than min
+ * if min isn't an integer) and no greater than max (or the next integer
+ * lower than max if max isn't an integer).
+ * Using Math.round() will give you a non-uniform distribution!
+ */
 export function getRandomInt(min, max) {
-   min = Math.ceil(min);
-   max = Math.floor(max);
-   return Math.floor(Math.random() * (max - min + 1)) + min;
+  min = Math.ceil(min)
+  max = Math.floor(max)
+  return Math.floor(Math.random() * (max - min + 1)) + min
 }
 
 export function replacePlaceholders(str, placeholders) {
@@ -44,7 +44,7 @@ export function ensureDirExists(filePath) {
   fs.mkdirSync(currentDirName) // create folder for this one
 }
 
-export function saveJson(path,object) {
+export function saveJson(path, object) {
   ensureDirExists(path)
   fs.writeFileSync(path, JSON.stringify(object, null, 2))
 }
@@ -63,21 +63,20 @@ export function saveText(path, str) {
 // The de-facto unbiased shuffle algorithm is the Fisher-Yates (aka Knuth) Shuffle.
 export function shuffle(array) {
   if (!array) return []
-  let currentIndex = array.length,  randomIndex;
+  let currentIndex = array.length,
+    randomIndex
 
   // While there remain elements to shuffle.
   while (currentIndex != 0) {
-
     // Pick a remaining element.
-    randomIndex = Math.floor(Math.random() * currentIndex);
-    currentIndex--;
+    randomIndex = Math.floor(Math.random() * currentIndex)
+    currentIndex--
 
     // And swap it with the current element.
-    [array[currentIndex], array[randomIndex]] = [
-      array[randomIndex], array[currentIndex]];
+    ;[array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]]
   }
 
-  return array;
+  return array
 }
 
 export function getRandomPrompt(filePath) {

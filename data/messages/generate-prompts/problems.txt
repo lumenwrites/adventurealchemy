@@ -21,3 +21,6 @@ An innocent creature is hunted by a deadly hunter
 A dangerous prisoner has escaped
 
 Please make a list of 50 interesting, challenging, exciting problems for the heroes to solve.
+
+//
+Now make a list of problems for a science fiction story.

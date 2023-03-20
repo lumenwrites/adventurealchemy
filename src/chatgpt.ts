@@ -1,4 +1,5 @@
 import { Configuration, OpenAIApi } from 'openai'
+import { readText } from './utils'
 
 export async function chat(message, n = 1) {
   console.log('[Sending message to ChatGPT]', message)
@@ -9,9 +10,10 @@ export async function chat(message, n = 1) {
   try {
     // https://platform.openai.com/docs/api-reference/chat/create?lang=node.js
     const response = await openai.createChatCompletion({
-      model: 'gpt-3.5-turbo',
+      // model: 'gpt-3.5-turbo',
+      model: 'gpt-4',
       messages: [
-        // { role: 'system', content: getText('system') },
+        { role: 'system', content: readText('./data/messages/system.txt') },
         { role: 'user', content: message },
       ],
       n, // number of responses to return

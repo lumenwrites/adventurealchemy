@@ -41,7 +41,6 @@ Liberate an occupied place
 Defend a place from the invasion
 Gain control over the territory
 Track or find someone
-Solve a crime
 Investigate strange events
 Find something lost or missing
 Uncover a conspiracy, secret plot

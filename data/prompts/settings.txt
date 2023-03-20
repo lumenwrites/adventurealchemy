@@ -12,6 +12,8 @@ Magic Library
 UFO crash site
 Floating islands
 Magic Academy
+Magic School
+Monster School
 Steampunk Factory
 Spy school
 Abandoned laboratory
@@ -224,3 +226,33 @@ Fantasy world split into opposing factions
 Spacecraft stranded in a hostile universe
 Ancient tomb filled with traps
 Alien planet overrun by monsters
+Volcanic island with a hidden civilization
+Underworld nightclub
+Castle on the back of a colossal, wandering beast
+Jungle temple guarded by sentient stone statues
+Hollow Earth civilization
+Vine-covered ruins inhabited by enchanted plants
+Underground mushroom forest
+Magnetic mountain with levitating structures
+Futuristic city built within a giant meteor crater
+Ghost ship graveyard
+Biosphere city in a toxic wasteland
+Ancient tree city guarded by spirits
+Village suspended in a giant spider web
+Village built on a frozen waterfall
+Town built on a giant floating lily pad
+Floating ice city drifting on the ocean
+Oasis in a desert of eternal night
+Space station inhabited by supernatural beings
+Abandoned city reclaimed by nature
+City built on stilts above a toxic swamp
+City built within a volcano's crater
+Kingdom of sentient plants
+Futuristic farm powered by advanced technology
+Village built on the rim of a bottomless chasm
+Steampunk city built around an enormous steam engine
+A massive tree with a village built in its hollow trunk
+Post-apocalyptic world reclaimed by nature
+Oasis city guarded by ancient golems
+City in the center of a perpetual storm
+Hidden city in the center of a perpetual sandstorm

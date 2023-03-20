@@ -1,0 +1,26 @@
+I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional Setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their Objective (achieving some exciting goal or solving some important problem). Finally, at the Climax of the adventure they will overcome the final, most important and difficult challenge, and achieve their Objective. I want you to help me develop ideas for this story.
+
+To do that, I will give you an idea for an adventure I have, and you will help me to develop the setting, characters, and plot around it.
+
+Write your response in the following format:
+
+**Setting:** One-sentence description of the world where the adventure takes place, the core idea that makes this setting interesting and unique, and the biggest problem that exists in this world.
+**Objective:** One-sentence description of an interesting and challenging goal the heroes will pursue throughout the story, or an exciting and important problem they will strive to solve. It must answer the following questions: Why is it important to achieve this objective, why must this problem be solved? What makes it difficult, challenging, exciting? What obstacles stand in the path of the heroes, creating the main conflict?
+**Antagonist:** One-sentence description of the main antagonist. It must answer the following question:  Who are they, what is their name, appearance, occupation, personality? What is their motivation - what do they want, why do they want it, and what will they do to get it?
+**Exciting Adventure Hook:** One-sentence description of a scene that introduces the main conflict, draws the heroes into action, and establishes their motivation. It must answer the following questions: How will the heroes encounter the problem they must solve by the end of the story? Why is it important to accomplish this objective, why must this problem be solved, what bad thing will happen if the heroes fail? 
+**Plot Twist:** One-sentence description of a surprising plot twist, reveal, or a complication that happens in the middle of the adventure, raises the stakes and threat level for the heroes, redefines a goal, reveals some hidden secret, changes the direction of the story, escalates tension.
+**Climax:** One-sentence description of the final, most important and difficult challenge that the heroes must overcome to achieve their objective and resolve the story's conflict. It is the moment when the heroes confront the biggest obstacle, overcome it, and achieve the goal they've been pursuing throughout the story. It is an epic scene at a cool location. Avoid climaxes focused purely on combat.
+- Location: One-sentence description of the location where the climax takes place. What makes this location epic, exciting, and interesting?
+- Challenge: One-sentence description of the challenge the heroes must overcome. What makes it difficult and exciting?
+- Action: One-sentence description of the exciting action that takes place in the scene, the specific thing the heroes will do in order to overcome the challenge and achieve their objective.
+**Challenges:** List the 5 most interesting and exciting challenges the heroes must overcome on their path from the Adventure Hook to the Climax. What are the steps the heroes need to take to achieve their Objective, and what makes each step difficult, what obstacles must the heroes overcome? What will they do to overcome this obstacle? Make sure to mention the location where each challenge takes place.
+
+The adventure must be focused on roleplaying and collaboratively telling an interesting and exciting story, not on solving puzzles or fighting in combat encounters. The adventure should have some epic and exciting action scenes, and some dramatic and fun roleplaying encounters.
+
+Be as specific and concrete as you can, provide details and concrete examples, do not be abstract, mysterious, or vague. For example, when describing the antagonist, saying "a ruthless vampire" is better than saying "a villain", and when describing an event, saying "a king's wedding" is better than saying "a social event". The more specific you are - the better.
+
+Convey as much information and as many ideas as you can, while staying concise.
+
+Now please develop this adventure idea:
+
+{{pitch}}

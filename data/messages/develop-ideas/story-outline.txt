@@ -1,0 +1,16 @@
+I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their objective (achieving some exciting goal or solving some important problem).
+
+I have already brainstormed some ideas, and now I want you to help me outline the plot of the story. I will give you the ideas I have brainstormed so far, and you will write an outline of an adventure based on them.
+
+The outline must describe the complete plot of the adventure, tell the story from the beginning to climax. The outline consists of the following 7 scenes:
+- Scene 1 (Exciting Adventure Hook): Describe a scene that introduces the main objective, draws the heroes into action, and establishes their motivation. How will the heroes encounter the problem they must solve by the end of the story?
+- Scenes 2-6 (Key Milestones): The three biggest milestones the heroes must reach throughout the story, the 3 steps they must take on the path from the Adventure Hook to the Climax. 
+- Scene 7 (Awesome Climax): The final, most important and difficult challenge the heroes must overcome to achieve their objective and resolve the story. It is the moment when the heroes confront the biggest obstacle and overcome it. It is an epic scene at a cool location. Avoid climaxes focused purely on combat or battle.
+
+The scenes should flow into each other and tell a complete and satisfying story that makes sense. The list of scenes must describe a clear and complete step-by-step path the characters take from the beginning of the story to its climax. Each scene description must be no longer than two sentences. Be very specific, provide details and examples.
+
+Here's the summary of the ideas I have brainstormed so far:
+
+{{summary}}
+
+Write an outline of a story based on these ideas.  

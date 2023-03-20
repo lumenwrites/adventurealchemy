@@ -1,13 +1,22 @@
 import { chat } from './chatgpt'
-import { shuffle, readText, readJson, saveJson, replacePlaceholders, saveText, getRandomInt, getRandomPrompt, cleanup } from './utils'
-
+import {
+  shuffle,
+  readText,
+  readJson,
+  saveJson,
+  replacePlaceholders,
+  saveText,
+  getRandomInt,
+  getRandomPrompt,
+  cleanup,
+} from './utils'
 
 function randomItem(list) {
   return list[Math.floor(Math.random() * list.length)]
 }
 
 function generatePrompts() {
-  const prompts = { }
+  const prompts = {}
   let promptsText = ''
 
   // X meets Y
@@ -15,7 +24,8 @@ function generatePrompts() {
     const movie1 = getRandomPrompt('./data/prompts/movies.txt')
     const movie2 = getRandomPrompt('./data/prompts/movies.txt')
     const prompts = { movie1, movie2 }
-    const promptsText = `"${movie1}" meets "${movie2}"`
+    let promptsText = `"${movie1}" meets "${movie2}"\n`
+    promptsText += `Combine the most interesting ideas from these two movies to create a new and exciting story that makes sense.`
     return { prompts, promptsText, oneline: promptsText }
   }
   // Twist
@@ -51,7 +61,7 @@ function generatePrompts() {
   // Objective
   let objective = getRandomPrompt('./data/prompts/objectives.txt')
   let prefixes = ['', '', 'Help someone to', "Stop the villain who's trying to"]
-  objective = `${prefixes[Math.floor(Math.random() * prefixes.length)]} ${objective}`
+  objective = `${prefixes[Math.floor(Math.random() * prefixes.length)]} ${objective.toLowerCase()}`
   objective = objective.trim()
   objective = `Objective: ${objective}\n`
   // Solve a problem instead
@@ -123,4 +133,31 @@ export async function pitchIdeas(num = 5) {
       console.log(e)
     }
   }
+}
+
+export async function pitchOneIdea() {
+  const { prompts, promptsText, oneline } = generatePrompts()
+  let fullPitch = await pitchIdea(promptsText)
+  let [pitch, summary] = fullPitch.split('Summary:')
+  pitch = cleanup(pitch)
+  summary = cleanup(summary)
+  return { prompts: promptsText, summary, pitch }
+  // let pitchJson = { prompts: promptsText, summary, pitch: fullPitch }
+  // let pitchText = `## ${summary}\n`
+  // pitchText += `${promptsText.trim()}\n\n`
+  // pitchText += `${fullPitch} \n\n`
+  // return { pitchJson, pitchText }
+}
+
+export async function pitchOneClimax() {
+  const { prompts, promptsText, oneline } = generatePrompts()
+  let message = readText('./data/messages/brainstorm-ideas/pitch-climax.txt')
+  message = replacePlaceholders(message, {
+    '{{prompts}}': promptsText,
+  })
+  let response = await chat(message)
+  let [pitch, summary] = response.split('Summary:')
+  pitch = cleanup(pitch)
+  summary = cleanup(summary)
+  return { prompts: promptsText, summary, pitch }
 }

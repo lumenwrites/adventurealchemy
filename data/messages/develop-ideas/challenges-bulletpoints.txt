@@ -14,7 +14,7 @@ I want the challenges to be as different from each other as possible - use diffe
 - Dramatic social encounters, roleplay-focused challenges (for example: negotiations, deception, persuasion, intrigue, diplomacy, politics, navigating strange cultures, etc.)
 - Exploration of fun, interesting, or dangerous environments (for example: climbing dangerous cliffs, crossing chasms, escaping from collapsing buildings, breaking into protected buildings, etc.)
 - Survival (for example: overcoming environmental obstacles, taming animals, finding food and water, building shelter, fending off predators, etc.)
-- Stealth (for example: sneaking, hiding from patrols, infiltration, impersonation, espionage, subterfuge, smuggling, cleaning up evidence, covering your tracks, heists, etc.)
+- Stealth (for example: sneaking, hiding from patrols, infiltration, impersonation, espionage, subtrefuge, smuggling, cleaning up evidence, covering your tracks, heists, etc.)
 - Mystery (for example: looking for clues, tracking footprints, etc.)
 - High concept challenges, dealing with interesting technologies or magics (for example: stopping a dangerous ritual, facing ghosts, hacking robots, repairing devices, building and crafting things, etc.)
 - Dealing with setbacks and complications (for example: some important item is broken or stolen, betrayal by a close ally, getting ambushed, transportation breaks, time pressure, competing with rivals, some important information turns out to be false, getting framed for a crime, etc.)
@@ -22,18 +22,24 @@ I want the challenges to be as different from each other as possible - use diffe
 - Two challenge types combined into one (for example: sneaking through a dangerous environment, infiltrating a group in order to obtain a clue, etc.)
 - Other challenge types - try to invent new and interesting challenge types I haven't listed.
 
-Each challenge idea must answer the following questions:
-- Describe the amazing, epic, dramatic, interesting location where the challenge takes place. What surprising element makes this location interesting and exciting? What dangers or opportunities does this location present?
-- What challenge must the heroes overcome in order to move closer their Objective, what obstacle must the heroes overcome? What makes it difficult and exciting?
-- Describe the exciting action that takes place in the scene, explain how the heroes solve this challenge - clearly describe the specific actions the heroes must take in order to successfully overcome the obstacle and solve the problem presented by the challenge.  
+Each challenge should be written in the following format:
 
-Each challenge idea should be described in the following format:
-- The scene takes place in (describe the location). The heroes must (describe the challenge they must overcome, and what makes it exciting and difficult). In order to overcome this challenge, the heroes will (describe the exciting action that takes place in the scene).
+**Challenge type (one of the challenge types I've outlined above) - One-sentence description of the challenge**
+- Location: Epic, dramatic, interesting location where the challenge takes place, amazing set piece. What surprising element makes this location interesting and exciting? What dangers or opportunities does this location present?
+- Challenge: What makes this step difficult, what obstacle must the heroes overcome, what problem must they solve in order to move forward?
+- Action: Describe the exciting action that takes place in this scene. Explain how the heroes solve this challenge - clearly describe the specific actions the heroes must take in order to overcome the obstacle and solve the problem presented by the challenge. 
+
 
 Examples of good challenges:
 
-- The scene takes place next to an enormous, dangerous, wild river stretching across the edge of the magic forest. The heroes must find a way to cross this river, even though it's wide, deep, and filled with sharp boulders and whirlpools that can quickly pull even the strongest swimmer under. In order to overcome this challenge, the heroes will find the tallest tree nearby, use their weapons to chop it down to make it fall over the river and create a makeshift bridge. 
+**Survival (overcoming an environmental obstacle) - Cross a dangerous river**
+- Location: An enormous, dangerous, wild river stretching across the edge of the magic forest.
+- Challenge: The river is very dangerous to cross, it is wide and deep, the water in it is raging, and is filled with sharp boulders and whirlpools that can quickly pull even the strongest swimmer under.
+- Action: The heroes find the tallest tree nearby, use their sword to chop it down to make it fall over the river and create a makeshift bridge. They carefully walk over this bridge to get to the other side.
 
-- The scene takes place in a seedy pirate tavern built into the skull of a gigantic sea monster slayed by the old pirates. The players need to find out the location of the priceless spell book, which is only known to a pirate sitting in this tavern, but the pirate is rude and scary, they don’t respect the heroes and have no interest in talking to them. To overcome this challenge, the heroes offer to buy the pirate some whiskey which gets him drunk, and dare the drunk pirate to tell about his adventures, which causes him to reveal that he has gifted the spell book to a witch he was in love with, and describe her location.
+**Social (persuasion and deception) - Convince a scary pirate to reveal the location of a spellbook**
+- Location: Seedy pirate tavern built into the skull of a gigantic sea monster slayed by the old pirates.
+- Challenge: The players need to find out the location of the priceless spellbook, which is only known to a pirate sitting in this tavern, but the pirate is rude and scary, they don’t respect the heroes and have no interest in talking to them.
+- Action: The heroes offer to buy the pirate some whiskey which gets him drunk, lifts his spirits, and makes him like the heroes more. They dare the drunk pirate to tell about his adventures, which causes him to reveal that he has gifted the spellbook to a witch he was in love with, and describe her location.
 
 Now make a list of 5 varied and exciting challenges the heroes will encounter on this adventure.
