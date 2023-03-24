@@ -1,34 +1,39 @@
-I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their objective (achieving some exciting goal or solving some important problem).
+I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional Setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their Objective (achieving some exciting goal or solving some important problem). Finally, at the Climax of the adventure they will overcome the final, most important and difficult challenge, and achieve their Objective. I want you to help me develop ideas for this story.
 
 I have already brainstormed a few ideas about the adventure, and I need you to help me brainstorm a list of different climax ideas.
 
-Climax is a scene where the story reaches the highest tension and drama. It is an epic, dramatic scene that takes place at a really cool location and is filled with exciting action. Climax revolves around the heroes striving to overcome the final, most important and difficult challenge the heroes must overcome to achieve their objective and resolve the story's conflict. Successfully overcoming this challenge resolves the main conflict of the story - the heroes successfully achieve the objective they were pursuing throughout the story.
+Climax is a scene where the story reaches the highest tension and drama. It is an epic, dramatic scene that takes place at a really cool location and is filled with exciting action. Climax revolves around the heroes striving to overcome the final, most important and difficult challenge of the story. Successfully overcoming this challenge resolves the main conflict of the story - the heroes successfully achieve the main Objective they were pursuing throughout the story.
 
-I will give you the ideas about the adventure I have already developed, and you will make a list of 5 different and exciting climax ideas. 
+Each climax idea must answer the following questions:
+- Describe the epic fictional location where the climax takes place. What makes this location unique, amazing, exciting, and interesting? What would be the most awesome and memorable set piece for the climax? What dangers or opportunities does this location present?
+- What challenge or obstacle must the heroes overcome in order to achieve their Objective? What makes it difficult and exciting?
+- Describe the exciting action that takes place in the scene, explain how the heroes solve this challenge - what specific actions must the heroes take in order to successfully overcome the obstacle and achieve their objective?
 
-You must avoid climax ideas focused purely on combat or battle.
+Each climax idea should be described in the following format:
+
+- Type of a challenge the climax revolves around: The climax scene takes place in (describe the location). The heroes must (describe the challenge they must overcome, and what makes it exciting and difficult). In order to overcome this challenge, the heroes will (describe the exciting action that takes place in the scene, explain how the heroes will solve the problem in front of them).
+
+Be concise, convey as much information and ideas as you can in as few words as possible. The climax ideas you send me must be no longer than three sentences.
+
+You must avoid climax ideas that are focused purely on combat. The adventure must be focused on roleplaying and collaboratively telling an interesting and exciting story, not on solving puzzles or fighting in combat encounters. The adventure should have some epic and exciting action scenes, and some dramatic and fun roleplaying encounters.
+
+Be as specific and concrete as you can, provide details and concrete examples, do not be abstract, mysterious, or vague. For example, when describing the antagonist, saying "a ruthless vampire" is better than saying "a villain", and when describing an event, saying "a king's wedding" is better than saying "a social event". The more specific you are - the better.
+
+Try to explore a wide variety of ideas, make the ideas for challenges and locations very different from each other.
+
+Now I will give you the ideas about the adventure I have already developed, and you will make a list of different and exciting climax ideas. 
 
 Here's the summary of the adventure ideas I have so far:
 
 {{summary}}
 
-The climax ideas must be written in the following format:
+Here are good examples of climax ideas:
 
-**One-sentence description of the exciting climax idea (challenge type the climax revolves around, from the list above)**
-- Location: One-sentence Description of the location where the climax takes place. What makes this location epic, unique, dramatic, amazing, exciting, and interesting?
-- Challenge: One-sentence Description of the challenge the heroes must overcome. What makes it difficult and exciting?
-- Action: One-sentence Description of the exciting action that takes place in the scene, the specific thing the heroes will do in order to overcome the challenge and achieve their objective.
-
-Good examples of climaxes:
-
-**Race to capture the phoenix before other pirates do (Capture a creature)**
-- Location: Mast of a pirate ship in the midst of a storm, at the top of the mast a Phoenix has perched to wait out the storm.
-- Challenge: The heroes must race other pirates to be the first ones to capture the phoenix. It is difficult because the mast is slippery, the winds threaten to blow the heroes away into deep waters, and the pirates chasing them will attack and do everything in their power to slow the heroes down.
-- Action: The heroes climb the mast, fighting back and throwing off the pirates that are in hot pursuit. The heroes can use the ropes and daggers to cling to the mast, they can cut the parts of the mast to drop on the pirates below them. The heroes reach the top of the mast first, and capture the phoenix, thus saving it from the pirates.
-
-**Prove the innocence of an accused witch before she's burned at the stake (Prove someone's innocence)**
-- Location: A public square in the middle of the village, surrounded by an angry mob and guarded by armed soldiers.
-- Challenge: The heroes must prove the innocence of an accused witch who's been blamed for a series of disasters that have befallen the village, before she's burned at the stake by the furious villagers. It is difficult because the evidence against her seems overwhelming, the mob is hysterical and violent, and the soldiers are under strict orders to enforce the law and keep the peace.
-- Action: The heroes uncover the real culprit behind the disaster (the town's Mayor). They persuade the angry mob and soldiers to back off long enough to demonstrate the evidence proving the Mayor's guilt and Witche's innocence.
+- Rescue someone: The climax scene takes place in a steampunk laboratory at the top of the tallest tower of Frankenstein's castle. The heroes must rescue a group of peaceful gigantic fruit bats from a steampunk scientist who's performing cruel experiments on them. In order to accomplish that, they will distract the scientist by using mutagenic sludge they took from his factory to create a bunch of mutants, and while he's distracted they'll unlock the bat cages and fly on the backs of the bats to freedom.
+- Fix an object: The climax scene takes place on a pirate warship. Its captain has broken the navigation system before setting it on a collision course with an island. The heroes must fix the navigation system before the ship collides with the shore and kills everyone on board.
+- Chase scene: The climax scene takes place on a zeppelin that is transporting an innocent teenage tiefling to prison. The heroes must organize a prison break, and help the prisoner escape. In order to do that, they will steal a flock of pegasi, and use them to stealthily board the zeppelin and then escape from the guards in an exciting chase scene in the sky.
+- Obtain an object: The climax scene takes place in an enormous underground Drow metropolis filled with glowing mushrooms. The Drow shaman holds an amulet that enables him to control gigantic sand worms. The heroes must get their hands on the amulet while being chased by the Drow shaman who's riding the gigantic sand worm. In order to do that, they will set a trap where the gigantic sand worm will fall into, making him vulnerable to capture.
+- Tame a creature: The climax scene takes place in a monster graveyard that is gradually overflowing with lava from a nearby volcano. The heroes must capture the dinosaurs who inhabit this graveyard, tame them, and use them to escape before they drown in lava.
+- Prove someone's innocence: The climax scene takes place in a public square in the middle of the village, with the heroes surrounded by an angry mob. The heroes must prove the innocence of an accused witch who's been blamed for a series of disasters that have befallen the village, before she's burned at the stake by the furious villagers. The heroes will uncover the real culprit behind the disaster (the town's Mayor), and persuade the angry mob to back off long enough to demonstrate the evidence proving the Mayor's guilt and Witche's innocence.
 
 Now please make a list of 5 different and exciting climax ideas for this adventure.

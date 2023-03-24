@@ -52,17 +52,21 @@ export async function developDetails(summary) {
   let locations = ''
   let characters = ''
   let challenges = ''
-  let outline = ''
   let scenes = ''
-  // Locations
-  locations = await summaryToDetails(summary, './data/messages/develop-ideas/locations.txt')
-  locations = cleanup(locations)
+  let storyRecap = ''
+  let storyOutline = ''
+  let detailedOutline = ''
+  let saveTheCat = ''
+  // Locations // don't need locations since they're included in climaxes/challenges
+  // locations = await summaryToDetails(summary, './data/messages/develop-ideas/locations.txt')
+  // locations = cleanup(locations)
 
   // Climax ideas
-  let summaryNoClimaxes = summary.split('**Climax')[0].trim()
+  let summaryNoClimaxes = summary.split('**Plot Twist')[0].trim() // **Climax
+  // let climaxesInput = `${pitch}\n\n`
   let climaxesInput = `${summaryNoClimaxes}\n\n`
   // climaxesInput += `# Location ideas\n${ locations }\n\n`
-  climaxesInput += `Here's a list of challenge types. Make one climax idea for each challenge type:\n`
+  climaxesInput += `Here's a list of challenge types. Make one climax idea revolving around each challenge type:\n`
   let climaxChallenges = readText('./data/prompts/climaxes.txt')
   climaxChallenges = climaxChallenges.split('\n')
   climaxChallenges = shuffle(climaxChallenges).slice(0, 5)
@@ -72,26 +76,23 @@ export async function developDetails(summary) {
   climaxes = cleanup(climaxes)
 
   // Challenges
-  let summaryNoChallenges = summary.split('**Challenge')[0].trim()
+  let summaryNoChallenges = summary.split('**Antagonist')[0].trim() // **Challenge **Antagonist
   challenges = await summaryToDetails(summaryNoChallenges, './data/messages/develop-ideas/challenges.txt')
   challenges = cleanup(challenges)
 
   // Story
-  let storyRecapInput = summary.split('**Exciting')[0].trim()
-  let storyRecap = await summaryToDetails(storyRecapInput, './data/messages/develop-ideas/story-recap.txt')
-  storyRecap = cleanup(storyRecap)
-  let storyOutline = await summaryToDetails(storyRecapInput, './data/messages/develop-ideas/story-outline.txt')
-  storyOutline = cleanup(storyOutline)
-  // let saveTheCat = await summaryToDetails(storyRecapInput, './data/messages/develop-ideas/story-save-the-cat.txt')
+  // let storyRecapInput = summary.split('**Exciting')[0].trim()
+  // storyRecap = await summaryToDetails(storyRecapInput, './data/messages/develop-ideas/story-recap.txt')
+  // storyRecap = cleanup(storyRecap)
+  // storyOutline = await summaryToDetails(storyRecapInput, './data/messages/develop-ideas/story-outline.txt')
+  // storyOutline = cleanup(storyOutline)
+  // saveTheCat = await summaryToDetails(storyRecapInput, './data/messages/develop-ideas/story-save-the-cat.txt')
   // saveTheCat = cleanup(saveTheCat)
-  // Outline
-  let outlineInput = `${summary}\n\n# Challenge ideas\n${challenges}\n`
-  outlineInput = summary
-  outline = await summaryToDetails(storyRecapInput, './data/messages/develop-ideas/outline.txt') // fullText
-  outline = cleanup(outline)
+  // detailedOutline = await summaryToDetails(storyRecapInput, './data/messages/develop-ideas/outline.txt') // fullText
+  // detailedOutline = cleanup(detailedOutline)
 
-  // Characters
-  characters = await summaryToDetails(summary, './data/messages/develop-ideas/characters.txt')
+  // // Characters
+  characters = await summaryToDetails(summaryNoChallenges, './data/messages/develop-ideas/characters.txt')  // summary
   characters = cleanup(characters)
 
   // Scenes
@@ -100,17 +101,16 @@ export async function developDetails(summary) {
   // scenes = cleanup(scenes)
 
   // fullText += `${summary}\n\n`
-  if (climaxes) fullText += `## Climax ideas\n${climaxes}\n\n`
-  if (challenges) fullText += `## Challenges\n${challenges}\n\n`
-  if (storyRecap) fullText += `## Story Recap\n${storyRecap}\n\n`
-  if (storyOutline) fullText += `## Story Outline\n${storyOutline}\n\n`
-  if (outline) fullText += `## Detailed Outline\n${outline}\n\n`
-  if (locations) fullText += `## Locations\n${locations}\n\n`
-  if (characters) fullText += `## Characters\n${characters}\n\n`
-  // if (saveTheCat) fullText += `## Save the Cat\n${saveTheCat}\n\n`
+  if (climaxes) fullText += `## Climax Ideas\n${climaxes}\n`
+  if (challenges) fullText += `## Challenges\n${challenges}\n`
+  if (storyRecap) fullText += `**Story Recap:**\n${storyRecap}\n`
+  if (storyOutline) fullText += `**Story Outline:**\n${storyOutline}\n`
+  if (detailedOutline) fullText += `**Detailed Outline:**\n${detailedOutline}\n`
+  if (saveTheCat) fullText += `**Save the Cat:**\n${saveTheCat}\n`
+  if (locations) fullText += `**Locations:**\n${locations}\n`
+  if (characters) fullText += `## Characters\n${characters}\n`
   // if (scenes) fullText += `## Scenes\n${scenes}\n`
 
-  saveText(`./data/out/developed-details.txt`, fullText)
   return fullText
 }
 

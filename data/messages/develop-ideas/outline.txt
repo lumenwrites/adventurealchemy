@@ -15,12 +15,18 @@ Each scene must be described in the following format:
 
 **Scene title - one-sentence description of the scene**
 - Next Step: Clearly describe the next step the heroes will take that will take them closer to their goal. What do the heroes want at this point in the story, what do they need to do next?
-- Location: Describe the location where the scene takes place in one sentence.
+- Location: Describe the location where the scene takes place in one sentence. What makes this location interesting and exciting? What dangers and opportunities does this location present?
 - Characters: Describe the characters whom the heroes will meet in this scene (if there are any).
 - Challenge: Clearly describe the challenge this scene revolves around, the obstacle the heroes must overcome in order to move closer to the goal.
 - Action: The exciting action that takes place in the scene, the specific thing the heroes will do in order to overcome the challenge this scene revolves around. Be specific, clearly describe what happens in the scene, give an example of the action the heroes must take in order to overcome the obstacle in front of them.
 - Information: What important information will the heroes learn about the story? What secrets or clues will they discover? What can they learn by talking to other characters in this scene?
 - Lead into the next scene: How does this scene transition into the next one, how can I lead the heroes to the next point in the story?
+
+The adventure must be focused on roleplaying and collaboratively telling an interesting and exciting story, not on solving puzzles or fighting in combat encounters. The adventure should have some epic and exciting action scenes, and some dramatic and fun roleplaying encounters.
+
+Be as specific and concrete as you can, provide details and concrete examples, do not be abstract, mysterious, or vague. For example, when describing the antagonist, saying "a ruthless vampire" is better than saying "a villain", and when describing an event, saying "a king's wedding" is better than saying "a social event". The more specific you are - the better.
+
+Convey as much information and as many ideas as you can, while staying concise.
 
 Examples of good scenes:
 

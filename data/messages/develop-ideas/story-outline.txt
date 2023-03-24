@@ -1,13 +1,49 @@
-I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their objective (achieving some exciting goal or solving some important problem).
+I need help writing a lighthearted one-shot adventure for a table-top roleplaying game. It is a short, self-contained story that can be played through in 1-2 hours. The players (the main characters, I will call them “heroes”) will play as characters in an interesting lighthearted fictional Setting (the world where the story takes place), they will strive to overcome fun and challenging obstacles on the path to their Objective (achieving some exciting goal or solving some important problem). Finally, at the Climax of the adventure they will overcome the final, most important and difficult challenge, and achieve their Objective. I want you to help me develop ideas for this story.
 
 I have already brainstormed some ideas, and now I want you to help me outline the plot of the story. I will give you the ideas I have brainstormed so far, and you will write an outline of an adventure based on them.
 
 The outline must describe the complete plot of the adventure, tell the story from the beginning to climax. The outline consists of the following 7 scenes:
 - Scene 1 (Exciting Adventure Hook): Describe a scene that introduces the main objective, draws the heroes into action, and establishes their motivation. How will the heroes encounter the problem they must solve by the end of the story?
-- Scenes 2-6 (Key Milestones): The three biggest milestones the heroes must reach throughout the story, the 3 steps they must take on the path from the Adventure Hook to the Climax. 
+- Scenes 2-6 (Key Milestones): The three biggest milestones the heroes must reach throughout the story, the 5 steps they must take on the path from the Adventure Hook to the Climax. 
 - Scene 7 (Awesome Climax): The final, most important and difficult challenge the heroes must overcome to achieve their objective and resolve the story. It is the moment when the heroes confront the biggest obstacle and overcome it. It is an epic scene at a cool location. Avoid climaxes focused purely on combat or battle.
 
+Each scene description should answer the following questions:
+- Location: Describe the location where the scene takes place in one sentence. What makes this location interesting and exciting? What dangers and opportunities does this location present?
+- Characters: Describe the characters whom the heroes will meet in this scene (if there are any).
+- Challenge: Clearly describe the challenge this scene revolves around, the obstacle the heroes must overcome in order to move closer to the goal.
+- Action: The exciting action that takes place in the scene, the specific thing the heroes will do in order to overcome the challenge this scene revolves around. Be specific, clearly describe what happens in the scene, give an example of the action the heroes must take in order to overcome the obstacle in front of them.
+- Information: What important information will the heroes learn about the story? What secrets or clues will they discover? What can they learn by talking to other characters in this scene?
+- Lead into the next scene: How does this scene transition into the next one, how can I lead the heroes to the next point in the story?
+
 The scenes should flow into each other and tell a complete and satisfying story that makes sense. The list of scenes must describe a clear and complete step-by-step path the characters take from the beginning of the story to its climax. Each scene description must be no longer than two sentences. Be very specific, provide details and examples.
+
+The adventure must be focused on roleplaying and collaboratively telling an interesting and exciting story, not on solving puzzles or fighting in combat encounters. The adventure should have some epic and exciting action scenes, and some dramatic and fun roleplaying encounters.
+
+Be as specific and concrete as you can, provide details and concrete examples, do not be abstract, mysterious, or vague. For example, when describing the antagonist, saying "a ruthless vampire" is better than saying "a villain", and when describing an event, saying "a king's wedding" is better than saying "a social event". The more specific you are - the better.
+
+Convey as much information and as many ideas as you can, while staying concise.
+
+Example of a good scene description:
+
+- **Arrival in the Belly of the Whale (Adventure Hook)**
+The heroes fly their spaceship above the ocean when a gigantic alien whale emerges from the water and swallows them. They find themselves inside a gigantic mouth, their exit blocked by the row of teeth. They soon discover that they are not alone inside the creature's belly - they meet a stranded alien prince who has been waiting inside the whale for a way to escape. Once they meet, the whale swallows, and the heroes must find a way to survive the fall down its throat into its stomach.
+
+Example of a good complete outline:
+
+- **Meeting  the baby dragon (Adventure Hook)**
+The heroes travel through a magic forest and meet a sad baby dragon who tells them that a group of warriors have captured and kidnapped his mom.
+- **Tracking the mama dragon (Challenge 1)**
+The heroes follow the tracks through the dangerous part of the forest until they find the city where the dragon mom was taken.
+- **Infiltrating the city (Challenge 2)**
+The gates of the city are guarded, and the heroes must convince, bribe, or intimidate the guards into letting them in.
+- **Discovering where the dragon is held captive (Challenge 3)**
+Talk to the people who live in the city to find out what happened to the dragon mom, and learn that she is being held in the Coliseum in the middle of the city, and is about to fight gladiators and various monsters for the public’s entertainment.
+- **Entering the coliseum (Challenge 4)**
+Only rich and powerful citizens are permitted to enter the coliseum, the only way for heroes to get in is as gladiators, so they must talk or sneak their way into the gladiator pits.
+- **Breaking the dragon's chains (Challenge 5)**
+Once the heroes enter the arena as gladiators, they must avoid getting killed by the enraged dragon and convince her that they’re trying to help. They see the evil princess, her guards, and her courts mage watching the show. They must reach the stands and obtain the mage’s spellbook to unlock the magic collar around the dragon’s neck.
+- **Liberating the dragon (Climax)**
+The heroes obtain the spellbook and must cast a spell to liberate the dragon, while protecting her and themselves from the mage and the guards, and avoiding collateral damage (making sure the dragon doesn’t kill the innocent bystanders).
 
 Here's the summary of the ideas I have brainstormed so far:
 

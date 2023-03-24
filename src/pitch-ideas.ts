@@ -16,17 +16,13 @@ function randomItem(list) {
 }
 
 function generatePrompts() {
-  const prompts = {}
-  let promptsText = ''
-
   // X meets Y
   if (getRandomInt(0, 5) === 0) {
     const movie1 = getRandomPrompt('./data/prompts/movies.txt')
     const movie2 = getRandomPrompt('./data/prompts/movies.txt')
-    const prompts = { movie1, movie2 }
     let promptsText = `"${movie1}" meets "${movie2}"\n`
     promptsText += `Combine the most interesting ideas from these two movies to create a new and exciting story that makes sense.`
-    return { prompts, promptsText, oneline: promptsText }
+    return promptsText
   }
   // Twist
   if (getRandomInt(0, 5) === 0) {
@@ -41,9 +37,11 @@ function generatePrompts() {
       // 'Take the core premise of the movie and replace one of its aspects with something unexpected, introduce a surprising contradiction, add seemingly incompatible element. Then modify the idea to make this new element make sense.',
     ]
     let promptsText = randomItem(twists)
-    return { prompts, promptsText, oneline: promptsText }
+    return promptsText
   }
 
+  // CORE PROMPTS
+  let corePrompts = []
   // Setting
   let setting = getRandomPrompt('./data/prompts/settings.txt')
   // Setting adjective
@@ -56,108 +54,97 @@ function generatePrompts() {
     let setting2 = getRandomPrompt('./data/prompts/settings.txt')
     setting += ` + ${setting2}`
   }
-  promptsText += `Setting: ${setting}\n`
-
+  corePrompts.push(`Setting: ${setting}\n`)
   // Objective
   let objective = getRandomPrompt('./data/prompts/objectives.txt')
   let prefixes = ['', '', 'Help someone to', "Stop the villain who's trying to"]
   objective = `${prefixes[Math.floor(Math.random() * prefixes.length)]} ${objective.toLowerCase()}`
-  objective = objective.trim()
+  objective = objective.trim() // remove the space in case the prefix is empty
   objective = `Objective: ${objective}\n`
   // Solve a problem instead
   if (getRandomInt(0, 3) === 0) {
     let problem = getRandomPrompt('./data/prompts/problems.txt')
     objective = `Problem: ${problem}\n`
   }
-  promptsText += objective
+  corePrompts.push(objective)
 
-  // Characters
-  if (getRandomInt(0, 3) === 0) {
-    let inhabitants = getRandomPrompt('./data/prompts/inhabitants.txt')
-    let characterPrefixes = ['Inhabitants of the setting', 'Featuring characters', 'Enemies']
-    promptsText += `${randomItem(characterPrefixes)}: ${inhabitants}\n`
-  }
+  // EXTRA PROMPTS
+  let extraPrompts = []
+  // Inhabitants
+  let inhabitants = getRandomPrompt('./data/prompts/inhabitants.txt')
+  let characterPrefixes = ['Inhabitants of the setting', 'Featuring characters', 'Enemies']
+  extraPrompts.push(`${randomItem(characterPrefixes)}: ${inhabitants}\n`)
   // Antagonist
-  if (getRandomInt(0, 3) === 0) {
-    let antagonist = getRandomPrompt('./data/prompts/antagonists.txt')
-    let motivation = getRandomPrompt('./data/prompts/antagonist-motivations.txt')
-    promptsText += `Antagonist: ${antagonist} who wants to ${motivation}\n`
-  }
+  let antagonist = getRandomPrompt('./data/prompts/antagonists.txt')
+  let motivation = getRandomPrompt('./data/prompts/antagonist-motivations.txt')
+  extraPrompts.push(`Antagonist: ${antagonist} who wants to ${motivation}\n`)
   // Premises
-  if (getRandomInt(0, 3) === 0) {
-    let premise = getRandomPrompt('./data/prompts/premises.txt')
-    promptsText += `Premise: ${premise}\n`
-  }
+  let premise = getRandomPrompt('./data/prompts/premises.txt')
+  extraPrompts.push(`Premise: ${premise}\n`)
   // Movie
-  if (getRandomInt(0, 3) === 0) {
-    const movie = getRandomPrompt('./data/prompts/movies.txt')
-    promptsText += `Inspired by movie: "${movie}"\n`
-  }
+  const movie = getRandomPrompt('./data/prompts/movies.txt')
+  extraPrompts.push(`Inspired by movie: "${movie}"\n`)
   // Complication
-  if (getRandomInt(0, 3) === 0) {
-    let complication = getRandomPrompt('./data/prompts/complications.txt')
-    promptsText += `Complication: ${complication}\n`
-  }
-  let oneline = promptsText.trim().replaceAll('\n', ' | ')
-  return { prompts, promptsText, oneline }
+  let complication = getRandomPrompt('./data/prompts/complications.txt')
+  extraPrompts.push(`Complication: ${complication}\n`)
+
+  extraPrompts = shuffle(extraPrompts)
+  extraPrompts = extraPrompts.slice(0, 1) // getRandomInt(1, 2))
+  let prompts = corePrompts.concat(extraPrompts)
+  let promptsText = prompts.map(p => p.trim()).join('\n')
+  return promptsText
 }
 
-async function pitchIdea(prompts) {
+export async function pitchOneIdea() {
+  let prompts = generatePrompts()
   let message = readText('./data/messages/brainstorm-ideas/pitch.txt')
-  // let pitchMessage = readText('./data/messages/settings-combined-objective.txt')
   message = replacePlaceholders(message, {
     '{{prompts}}': prompts,
   })
   let response = await chat(message)
-  return response
-}
-
-export async function pitchIdeas(num = 5) {
-  let pitches = []
-  let pitchesText = ''
-  for (let i = 0; i < num; i++) {
-    try {
-      const { prompts, promptsText, oneline } = generatePrompts()
-      let pitch = await pitchIdea(promptsText)
-      let [fullPitch, summary] = pitch.split('Summary:')
-      fullPitch = cleanup(fullPitch)
-      summary = cleanup(summary)
-      pitches.push({ prompts: promptsText, summary, pitch: fullPitch })
-      pitchesText += `## ${summary}\n`
-      pitchesText += `${promptsText.trim()}\n\n`
-      pitchesText += `${fullPitch} \n\n`
-      pitchesText += '---\n\n'
-      saveJson(`./data/out/pitches.json`, pitches)
-      saveText(`./data/out/pitches.txt`, pitchesText.trim())
-    } catch (e) {
-      console.log(e)
-    }
-  }
-}
-
-export async function pitchOneIdea() {
-  const { prompts, promptsText, oneline } = generatePrompts()
-  let fullPitch = await pitchIdea(promptsText)
-  let [pitch, summary] = fullPitch.split('Summary:')
+  let [pitch, summary] = response.split('Summary:')
+  prompts = cleanup(prompts)
   pitch = cleanup(pitch)
   summary = cleanup(summary)
-  return { prompts: promptsText, summary, pitch }
-  // let pitchJson = { prompts: promptsText, summary, pitch: fullPitch }
-  // let pitchText = `## ${summary}\n`
-  // pitchText += `${promptsText.trim()}\n\n`
-  // pitchText += `${fullPitch} \n\n`
-  // return { pitchJson, pitchText }
+  return { prompts, summary, pitch }
 }
 
 export async function pitchOneClimax() {
-  const { prompts, promptsText, oneline } = generatePrompts()
+  let prompts = generatePrompts()
   let message = readText('./data/messages/brainstorm-ideas/pitch-climax.txt')
   message = replacePlaceholders(message, {
-    '{{prompts}}': promptsText,
+    '{{prompts}}': prompts,
   })
   let response = await chat(message)
   let [pitch, summary] = response.split('Summary:')
+  prompts = cleanup(prompts)
   pitch = cleanup(pitch)
   summary = cleanup(summary)
-  return { prompts: promptsText, summary, pitch }
+  return { prompts, summary, pitch }
 }
+
+
+
+
+// export async function pitchIdeas(num = 5) {
+//   let pitches = []
+//   let pitchesText = ''
+//   for (let i = 0; i < num; i++) {
+//     try {
+//       const { prompts, promptsText, oneline } = generatePrompts()
+//       let pitch = await pitchIdea(promptsText)
+//       let [fullPitch, summary] = pitch.split('Summary:')
+//       fullPitch = cleanup(fullPitch)
+//       summary = cleanup(summary)
+//       pitches.push({ prompts: promptsText, summary, pitch: fullPitch })
+//       pitchesText += `## ${summary}\n`
+//       pitchesText += `${promptsText.trim()}\n\n`
+//       pitchesText += `${fullPitch} \n\n`
+//       pitchesText += '---\n\n'
+//       saveJson(`./data/out/pitches.json`, pitches)
+//       saveText(`./data/out/pitches.txt`, pitchesText.trim())
+//     } catch (e) {
+//       console.log(e)
+//     }
+//   }
+// }

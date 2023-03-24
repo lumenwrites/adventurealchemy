@@ -15,4 +15,3 @@ Here's the summary of the adventure I have so far:
 {{summary}}
 
 Make a list of 10 exciting locations for this adventure.
-

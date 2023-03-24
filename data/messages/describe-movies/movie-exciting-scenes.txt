@@ -1,0 +1,12 @@
+Take a great movie from one of the following genres: action/adventure, science fiction, fantasy, animation.
+
+Describe the 3 most exciting scenes from this movie, and a climax scene.
+
+Describe each scene in the following format:
+
+**One-sentence summary of the scene**
+- Location: describe the location where the scene takes place, and what makes this location unique and interesting.
+- Challenge: describe the challenge the characters are trying to overcome, the problem they're striving to solve, the main conflict in the scene (what does the characters want in this scene, and what stands in their way). What makes it difficult, what obstacles do they encounter? 
+- Exciting action: describe the exciting action that takes place in the scene, explain what the characters in order to overcome the challenge.
+
+Describe the scenes in a way that can be understood by a person who has never seen the movie. Be concise, convey as much information and ideas as you can, in as few words as possible. Be specific, provide details and examples.
